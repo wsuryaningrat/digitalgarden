@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-isra-17-41/"}
+---
+
+
+# QS. Al-Isra' (17)-41
+وَلَقَدْ صَرَّفْنَا فِيْ هٰذَا الْقُرْاٰنِ لِيَذَّكَّرُوْاۗ وَمَا يَزِيْدُهُمْ اِلَّا نُفُوْرًا
+
+Artinya: *"Dan sungguh, dalam Al-Qur'an ini telah Kami (jelaskan) berulang-ulang (peringatan), agar mereka selalu ingat. Tetapi (peringatan) itu hanya menambah mereka lari (dari kebenaran)."*

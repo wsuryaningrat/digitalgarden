@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-mu-minun-23-18/"}
+---
+
+
+# QS. Al-Mu'minun (23)-18
+وَاَنْزَلْنَا مِنَ السَّمَاۤءِ مَاۤءًۢ بِقَدَرٍ فَاَسْكَنّٰهُ فِى الْاَرْضِۖ وَاِنَّا عَلٰى ذَهَابٍۢ بِهٖ لَقٰدِرُوْنَ ۚ
+
+Artinya: *"Dan Kami turunkan air dari langit dengan suatu ukuran; lalu Kami jadikan air itu menetap di bumi, dan pasti Kami berkuasa melenyapkannya. "*

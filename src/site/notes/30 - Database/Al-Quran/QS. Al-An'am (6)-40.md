@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-an-am-6-40/"}
+---
+
+
+# QS. Al-An'am (6)-40
+قُلْ اَرَءَيْتَكُمْ اِنْ اَتٰىكُمْ عَذَابُ اللّٰهِ اَوْ اَتَتْكُمُ السَّاعَةُ اَغَيْرَ اللّٰهِ تَدْعُوْنَۚ اِنْ كُنْتُمْ صٰدِقِيْنَ 
+
+Artinya: *"Katakanlah (Muhammad), “Terangkanlah kepadaku jika siksaan Allah sampai kepadamu, atau hari Kiamat sampai kepadamu, apakah kamu akan menyeru (tuhan) selain Allah, jika kamu orang yang benar!”"*
