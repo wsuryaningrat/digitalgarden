@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-a-raf-7-17/"}
+---
+
+
+# QS. Al-A'raf (7)-17
+ثُمَّ لَاٰتِيَنَّهُمْ مِّنْۢ بَيْنِ اَيْدِيْهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ اَيْمَانِهِمْ وَعَنْ شَمَاۤىِٕلِهِمْۗ وَلَا تَجِدُ اَكْثَرَهُمْ شٰكِرِيْنَ
+
+Artinya: *"kemudian pasti aku akan mendatangi mereka dari depan, dari belakang, dari kanan dan dari kiri mereka. Dan Engkau tidak akan mendapati kebanyakan mereka bersyukur.”"*
