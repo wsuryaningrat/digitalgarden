@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-fath-48-4/"}
----
-
-
-# QS. Al-Fath (48)-4
-هُوَ الَّذِيْٓ اَنْزَلَ السَّكِيْنَةَ فِيْ قُلُوْبِ الْمُؤْمِنِيْنَ لِيَزْدَادُوْٓا اِيْمَانًا مَّعَ اِيْمَانِهِمْ ۗ وَلِلّٰهِ جُنُوْدُ السَّمٰوٰتِ وَالْاَرْضِۗ وَكَانَ اللّٰهُ عَلِيْمًا حَكِيْمًاۙ
-
-Artinya: *"Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah-lah bala tentara langit dan bumi, dan Allah Maha Mengetahui, Mahabijaksana;"*
