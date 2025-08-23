@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-baqarah-2-258/"}
----
-
-
-# QS. Al-Baqarah (2)-258
-اَلَمْ تَرَ اِلَى الَّذِيْ حَاۤجَّ اِبْرٰهٖمَ فِيْ رَبِّهٖٓ اَنْ اٰتٰىهُ اللّٰهُ الْمُلْكَ ۘ اِذْ قَالَ اِبْرٰهٖمُ رَبِّيَ الَّذِيْ يُحْيٖ وَيُمِيْتُۙ قَالَ اَنَا۠ اُحْيٖ وَاُمِيْتُ ۗ قَالَ اِبْرٰهٖمُ فَاِنَّ اللّٰهَ يَأْتِيْ بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِيْ كَفَرَ ۗوَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظّٰلِمِيْنَۚ
-
-Artinya: *"Tidakkah kamu memperhatikan orang yang mendebat Ibrahim mengenai Tuhannya, karena Allah telah memberinya kerajaan (kekuasaan). Ketika Ibrahim berkata, “Tuhanku ialah Yang menghidupkan dan mematikan,” dia berkata, “Aku pun dapat menghidupkan dan mematikan.” Ibrahim berkata, “Allah menerbitkan matahari dari timur, maka terbitkanlah ia dari barat.” Maka bingunglah orang yang kafir itu. Allah tidak memberi petunjuk kepada orang-orang zalim."*
