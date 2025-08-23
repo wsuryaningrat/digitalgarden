@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-ankabut-29-41/"}
----
-
-
-# QS. Al-'Ankabut (29)-41
-مَثَلُ الَّذِيْنَ اتَّخَذُوْا مِنْ دُوْنِ اللّٰهِ اَوْلِيَاۤءَ كَمَثَلِ الْعَنْكَبُوْتِۚ اِتَّخَذَتْ بَيْتًاۗ وَاِنَّ اَوْهَنَ الْبُيُوْتِ لَبَيْتُ الْعَنْكَبُوْتِۘ لَوْ كَانُوْا يَعْلَمُوْنَ 
-
-Artinya: *"Perumpamaan orang-orang yang mengambil pelindung selain Allah adalah seperti laba-laba yang membuat rumah. Dan sesungguhnya rumah yang paling lemah ialah rumah laba-laba, sekiranya mereka mengetahui. "*
