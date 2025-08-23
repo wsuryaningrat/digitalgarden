@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-baqarah-2-3/"}
----
-
-
-# QS. Al-Baqarah (2)-3
-الَّذِيْنَ يُؤْمِنُوْنَ بِالْغَيْبِ وَيُقِيْمُوْنَ الصَّلٰوةَ وَمِمَّا رَزَقْنٰهُمْ يُنْفِقُوْنَ ۙ
-
-Artinya: *"(yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka,"*
