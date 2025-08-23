@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-anfal-8-61/"}
----
-
-
-# QS. Al-Anfal (8)-61
-۞ وَاِنْ جَنَحُوْا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللّٰهِ ۗاِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ 
-
-Artinya: *"Tetapi jika mereka condong kepada perdamaian, maka terimalah dan bertawakallah kepada Allah. Sungguh, Dia Maha Mendengar, Maha Mengetahui."*
