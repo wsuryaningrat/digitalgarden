@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/30-database/al-quran/qs-al-hajj-22-31/"}
----
-
-
-# QS. Al-Hajj (22)-31
-حُنَفَاۤءَ لِلّٰهِ غَيْرَ مُشْرِكِيْنَ بِهٖۗ وَمَنْ يُّشْرِكْ بِاللّٰهِ فَكَاَنَّمَا خَرَّ مِنَ السَّمَاۤءِ فَتَخْطَفُهُ الطَّيْرُ اَوْ تَهْوِيْ بِهِ الرِّيْحُ فِيْ مَكَانٍ سَحِيْقٍ 
-
-Artinya: *"(Beribadahlah) dengan ikhlas kepada Allah, tanpa mempersekutukan-Nya. Barangsiapa mempersekutukan Allah, maka seakan-akan dia jatuh dari langit lalu disambar oleh burung, atau diterbangkan angin ke tempat yang jauh."*
