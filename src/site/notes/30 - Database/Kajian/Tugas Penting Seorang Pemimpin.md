@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/30-database/kajian/2025-08-27-05-39/","tags":["kajian"]}
+{"dg-publish":true,"permalink":"/30-database/kajian/tugas-penting-seorang-pemimpin/","tags":["kajian","RiyadushShalihin"]}
 ---
 
 
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=AQmFtit3IMw" target="_blank">https://www.youtube.com/watch?v=AQmFtit3IMw</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=D763cSe7qKE" target="_blank">https://www.youtube.com/watch?v=D763cSe7qKE</a></span></li></ul></div>
 
 # Catatan Kajian
 1. 
@@ -26,13 +26,10 @@ Hadits Abdullah bin Utbah bin Mas'ud Radhiallahu ‘anhu Dari Abdullah bin Utbah
 
 </div></div>
 
-2. Kualitas seseorang tergantung hati dan lisan, yang menjadi modal hidup. Terlebih bagi pemimpin, tidak bisa hanya mengalir saja ataupun hanya mengucapkan "aku cinta kalian". Contohlah Umar bin Khattab
-> "Lisannya orang yang punya sehat ada di belakang hatinya. Jika dia ingin bicara dia berpikir terlebih dahulu. Jika lebih banyak manfaat maslahat bagi dirinya dia akan bicara. Sebaliknya hati orang bodoh ada di belakang lisannya. Jika dia mau bicara, dia bicara40"
-> - [[30 - Database/Misc Notes/Hasan al-Bashri - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Hasan al-Bashri - Wikipedia bahasa Indonesia, ensiklopedia bebas]]
-3. Komunikasi ini bukan tentang keinginan mendapat pengakuan orang lain, tapi bentuk tanggung jawab kita atas amanah ***Allah ﷻ*** . 
-4. Jangan berharap orang lain yang beradaptasi dengan kita. 
+2. Salah satu faedah dari hadtis Umar di atas adalah seorang pemimpin hendaknya memiliki konsep dan menjelaskannya kepad ayang dipimpin. Dalam konteks hadits di atas Umar menjelaskan pada saat posisinya sebagai seorang Khalifah. Kita perlu mengaplikasikannya dalam hal memimpin keluarga, pekerjaan, dan interaksi lainnya.
+3. ***Nabi ﷺ***  jelas memiliki konsep yang dibawa dan disampaikan, yaitu mengajak umat Muslim ke surga. ***Nabi ﷺ***  bersabda terkait pola hidup [[30 - Database/Al-Hadits/Tidak Berlebihan Dalam Ketaatan  Almanhaj\|Tidak Berlebihan Dalam Ketaatan  Almanhaj]]
 
 # Pengamalan
-1. Pentingnya komunikasi pemimpin kepada yang dipimpinnya terkait apa konsep, do's and dont's, cetak biru, arah ke depannya. Mulai dari kita pribadi di lingkungan terdekat misalnya sebagai pemimpin keluarga, organisasi, dsb. 
+1. Seorang pemimpin harusnya menjelaskan konsep dan metode yang ia pegang, do and dont's yang dia ikuti, sehingga yang dipimpin mengerti dan memiliki gambaran arah konsep kedepan.
  
  

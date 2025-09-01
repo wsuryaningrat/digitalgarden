@@ -1,0 +1,121 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/ibu-curhat-tentang-kesalahan-ayah/"}
+---
+
+  
+`BUTTON[show-project,new-kajian,homepage]`  
+  >[!multi-column] 
+> | | |
+ >|---|---|
+ > | ✨ Pemateri | :  `INPUT[inlineListSuggester(option('Ustadz Abdurraan Zahier, B.B.A'),option('Ustadz Abu Hurairah, MA'),option('Ustadz Abu Utsman Abdulbarr Kaisinda'),option('Ustadz Abu Qatadah'),option('Ustadz Abuya Soparman Syahrani, SQ'),option('Ustadz Abdurrahman al Amiry'),option('Ustadz Ahmad Rasyid Bazher'),option('Ustadz Ali Hasan Bawazier'),option('Ustadz Ammi Nur Baits'),option('Ustadz Arman Amri'),option('Ustadz Dr. H. Marhadi Muhayar Lc., MA'),option('Ustadz Dr. Elfa Hendri Mukhlis, MA'),option('Ustadz Dr. Firanda Andirja, M.A.'),option('Ustadz Ega Abu Fahd, Lc'),option('Ustadz Erfandoni Tarmizi, Lc., MHI'),option('Ustadz Farhan Abu Furaihan'),option('Ustadz Hamdi Al Bakry, Lc.'),option('Ustadz Idrus Yusuf, MA'),option('Ustadz Ishom Aini, Lc., MA'),option('Ustadz Jundi Abu Daud, Lc., MA'),option('Ustadz Khairul Anam M.Eng PhD'),option('Ustadz Khalid Basalamah'),option('Ustadz Mohammad Nursamsul Qomar, Lc'),option('Ustadz Muflih Safitra, M.Sc'),option('Ustadz Muhammad Nuzul Dzikri, Lc'),option('Ustadz Muhammad Sariti Yusuf, Lc'),option('Ustadz Najmi Umar Bakkar'),option('Ustadz Nurdin Apud Sarbini, Lc., M.Pd'),option('Ustadz Ruslan Nurhadi, Lc'),option('Ustadz Syafiq Al Khatieb, Lc., MA'),option('Ustadz Yoga Prayoga'),option('KH. DR. M. Hidayat. MBA, MH'),option('KH. DR. Taufik Ismail, MA'),option('KH. DR. Nurul Habiburrahman'),option('Prof. DR. HM. Kana Sutrisna'),option('KH. Fakhruddin W. Hadzami'),option('KH. Fahmi Basya Hamdi'),option('DR. H. Ahmad Fathoni, MA')):pemateri_kajian]`   |
+ > | 📨 Materi Kajian     | :  `INPUT[inlineSelect(option(''),option('Ad Daa Wa Ad Dawa'),option('Al Kabair'),option('Al Wasail Al Mufidah'),option('At Tadzkirah'),option('Buku Fiqh Bermadzhab'),option('Daurah Ilmiah'),option('Fiqih Dzikir dan Doa'),option('Ummahatul Mukminin Wa Banaat Ar Rosul'),option('Ushul Tsalatsah'),option('Kajian Akhlak'),option('Kajian Jodoh'),option('Kajian Muamalah'),option('Kajian Rutin Intensif'),option('Kajian Tafsir'),option('Kajian Tauhid'),option('Kajian Tematik'),option('Kajian The Rabbaanians'),option('Kajian Waris'),option('Kitab Al Fitan '),option('Kitabul Ilmi Shohih Bukhori'),option('Kitabul Jami Bulughul Maram'),option('Matematika Al-Quran'),option('Riyadush Shalihin'),option('Sirah Para Sahabat'),option('Sirah Para Nabi'),option('Tahsin Al-Quran'),option('Tadzkiratus Sami Wal Mutakallim'),option('Tafsir Ibnu Katsir'),option('Talbis Iblis'),option('Talkshow')):materi_kajian]`  |
+ > | | : `INPUT[text:materi_kajian]`|
+ > | 📑Sub Kajian| : `INPUT[text:tema_kajian]`| 
+ > | 🕌 Alamat         | : `INPUT[inlineSelect(option(''),option('Masjid Agung Al-Azhar Jaksel'),option('Masjid Al-Ihsan Bank BTN'),option('Masjid Attaqwa Benhil'),option('Masjid Baiturrahman Ponpin'),option('Masjid Sahid Nurul Iman Karet'),option('Masjid Nurul Iman Blok M Square'),option('Online')):location]`|
+ > | | : `INPUT[text:location]`   | 
+	 > | 📽️ Link Video| : `INPUT[text:link_kajian]`| 
+ 
+## *** بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ***
+
+ 
+
+
+# Meta Data Kajian
+- ✨`VIEW[Pemateri: {pemateri_kajian}][text]`
+- 📨`VIEW[Materi Kajian: {materi_kajian}][text]`
+- 📑`VIEW[Sub Kajian: {tema_kajian}][text]`
+- 🕌`VIEW[Alamat: {location}][text]`
+- 📽️`VIEW[Link Video Kajian: {link_kajian}][text]`
+- ✍️Tags: #kajian
+
+ 
+
+# Catatan Kajian
+1. Yang harus dilakukan adalah memihak kepada Ibu dan Ayah ![[QS. At-Tawbah (9)-119\|QS. At-Tawbah (9)-119]]
+2. Walaupun ayah yang dzalim, tetap tolonglah yang dzalim dan terdzalimi
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Dari Anas _radhiyallahu ‘anhu_, ia berkata bahwa Rasulullah _shallallahu ‘alaihi wa sallam_ bersabda,
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+_“Tolonglah saudaramu yang berbuat zalim dan yang dizalimi.”_
+
+فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ أَنْصُرُهُ إِذَا كَانَ مَظْلُومًا ، أَفَرَأَيْتَ إِذَا كَانَ ظَالِمًا كَيْفَ أَنْصُرُهُ قَالَ « تَحْجُزُهُ أَوْ تَمْنَعُهُ مِنَ الظُّلْمِ ، فَإِنَّ ذَلِكَ نَصْرُهُ »
+
+Kemudian ada seseorang bertanya tentang bagaimana cara menolong orang yang berbuat zalim?
+
+Beliau menjawab, “_Kamu cegah dia dari berbuat zalim, maka sesungguhnya engkau telah menolongnya_.” (HR. Bukhari, no. 6952; Muslim, no. 2584)
+
+</div></div>
+
+3. Tetaplah berbuat baik walaupun orang tua kita bermaksiat. ![[QS. Luqman (31)-15\|QS. Luqman (31)-15]]
+4. Ayah yang tidak perform walaupun dzalim dan memaksa anaknya, tidak lebih parah daripada yang syirik. Maka tetaplah berbuat baik kepada kedua orang tua kita. ![[QS. Luqman (31)-13\|QS. Luqman (31)-13]]
+5. Rangkul keluarga kita dan jangan membuat pola ini berkepanjangan. Pada posisi ini ibu justru beruntung karena akan mendapat pahala besar. Sedangkan seorang ayah nanti harus bertanggung jawab di hari kiamat. Isu nya di sini justru pada ayah, bagaimana ayah bisa selamat di hari kiamat.
+6. Hanya curhat kepada ***Allah ﷻ*** sebagaimana Nabi Yakub. ![[QS. Yusuf (12)-86\|QS. Yusuf (12)-86]]
+7. Dalam hal parenting dan mendidik anak adalah hal yang besar dan agung, Syeikh Abdul Razaq menambahkan wajib bagi tiap **ayah** yang benar-benar bertanggung jawab dan bekerja keras karena secara umum rusaknya anak-anak disebabkan lalai nya para ayah mendidik anaknya.
+8. Ayah perbaiki anak, ibu kurangi curhat. Semua lakukan tugas nya masing-masing.
+9. [[2025-08-18 21.26 Kunci mengajarkan anak shalat\|2025-08-18 21.26 Kunci mengajarkan anak shalat]]
+
+# Pengamalan
+1. Rangkul orang tua kita dan tetap berbuat baik kepada mereka walaupun underperform. Sambil ajak keluarga kita bertaqwa kepada ***Allah ﷻ*** .
+ 
+
+
+`BUTTON[open-kajian]` 🪴  `BUTTON[homepage]` 
+```meta-bind-button
+style: destructive
+label: New Kajian
+hidden: true
+id: new-kajian
+action:
+  type: command
+  command: cmdr:macro-2
+``` 
+```meta-bind-button 
+style: destructive 
+label: Light Mode 
+id: light-mode 
+hidden: true 
+actions: 
+- type: command 
+  command: theme:use-light 
+``` 
+  ```meta-bind-button 
+  style: primary 
+  label: Dark Mode 
+  id: dark-mode 
+  hidden: true 
+  actions: 
+  - type: command 
+    command: theme:use-dark 
+``` 
+```meta-bind-button
+style: primary
+label: Homepage
+hidden: true
+id: homepage
+action:
+  type: command
+  command: homepage:open-homepage
+```
+```meta-bind-button
+style: primary
+label: Dashboard Kajian
+hidden: true
+id: open-kajian
+action:
+  type: command
+  command: obsidian-projects:show:1a6ed206-a312-4408-9926-1729baec282d:eda707fe-7d05-434d-a034-1799df0c0a7b
+```
+```meta-bind-button
+style: primary
+label: View Kajian
+hidden: true
+id: show-project
+action:
+  type: command
+  command: obsidian-projects:show-projects
+```

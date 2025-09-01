@@ -51,4 +51,3 @@ Hadits Abdullah bin Utbah bin Mas'ud Radhiallahu ‘anhu Dari Abdullah bin Utbah
 1. Tiap pemimpin itu harus berlaku adil dan amanah, inilah senjatanya orang Muslim
  
  
- `button-publish`

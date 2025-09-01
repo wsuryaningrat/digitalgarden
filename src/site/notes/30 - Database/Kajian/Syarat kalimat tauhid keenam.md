@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/syarat-kalimat-tauhid-keenam/","tags":["kajian","RiyadushShalihin"]}
+---
+
+ 
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=-rgvaGg2AuE" target="_blank">https://www.youtube.com/watch?v=-rgvaGg2AuE</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
+
+ 
+
+# Catatan Kajian
+1. Ilmu
+2. Yakin
+3. Ikhlas, meniadakan kesyirikan dan riya. ***Rasulallah ﷺ***  bersabda yang paling bahagia adalah yang mengucapkan laailaahailallah dengan ikhlas di hatinya.
+4. Jujur, meniadakan kemunafikan.
+5. Cinta, mencintai ***Allah ﷻ*** , ***Rasulallah ﷺ***  , agama Islam, dan orang-orang Muslim. 
+	1. Makna ibadah adalah **cinta**. Tidak ada ibadah tanpa cinta. Cinta adalah rukun ibadah
+6. Patuh, cinta melahirkan ketaqwaan. 
+
+## Syarat yang keenam
+1. Al-inqiyat yaitu tunduk, patuh, taat, membersamai. Ini meniadakan artat / meninggalkan. Artinya orang yang mengucapkan laailaahailallah harus patuh, turut dan patuh dan mengikuti syariat ***Allah ﷻ*** , menyerahkan wajahnya kepada ***Allah ﷻ*** , berislam dengan benar (bukan berarti harus sempurna). Berusaha sekeras mungkin, dan jika tergelincir segera bertaubat.
+2. ***Allah ﷻ*** berfirman **kembalillah kepada Rabb kalian dan berserah dirilah** ![[QS. Az-Zumar (39)-54\|QS. Az-Zumar (39)-54]]
+3. ***Allah ﷻ*** berfirman **yang lebih baik agamanya adalah yang ikhlas, mengerjakan kebaikan** ![[QS. An-Nisa' (4)-125\|QS. An-Nisa' (4)-125]]
+4. Lafadz **aslimu** dan **aslama** di dua ayat di atas maknanya menyerah, tunduk patuh. Artinya kembali lah kepada Rabb kalian, akuilah, berserah dirilah, patuh lah. Lalu lakukan dengan dzahir dan batin sehingga kita sampai derajat **Islam**.
+5. Contohnya janganlah kita hanya mengucapkan laailaahaillallah tapi engga ibadah, engga shalat, atau puasa.
+6. Mustahil seorang yang bermaksiat (tidak menurut) sekaligus ia mengklaim mencintai ***Allah ﷻ*** . ![[2025-06-21 17.19 Cinta melahirkan taqwa#Cinta yang Jujur Melahirkan Ketaqwaan\|2025-06-21 17.19 Cinta melahirkan taqwa#Cinta yang Jujur Melahirkan Ketaqwaan]]
+7. Sebagaimana orang yang mencintai pasangannya, ia akan nurut. Seorang suami yang berkata kepada istrinya "kamu mau aku beliin apa?"
+8. Menurut bukan berarti sempurna, karena manusia penuh dengan kesalahan. Yang terbaik adalah yang bertaubat.
+
+ 

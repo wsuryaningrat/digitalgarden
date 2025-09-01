@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/syarat-kalimat-tauhid-keempat/","tags":["kajian","RiyadushShalihin"]}
+---
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> </span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
+
+
+# Review Syarat lafadz tauhid
+1. Ilmu. Meniadakan ibadah kepada selain ***Allah ﷻ*** dan mempersembahkan semua ibadah dan amalan untuk ***Allah ﷻ*** [[QS. Al-Fatihah (1)-5\|QS. Al-Fatihah (1)-5]]. [[2025-08-04 05.46 Syarat kalimat tauhid pertama\|2025-08-04 05.46 Syarat kalimat tauhid pertama]] 
+	1. [[2025-08-05 05.49 Syarat kalimat tauhid kedua\|2025-08-05 05.49 Syarat kalimat tauhid kedua]]
+	2. [[2025-08-06 05.43 Syarat kalimat tauhid ketiga\|2025-08-06 05.43 Syarat kalimat tauhid ketiga]]
+2. Yakin. Keyakinan akan menghasilkan amal. [[QS. Al-Hujurat (49)-15\|QS. Al-Hujurat (49)-15]]
+3. Ikhlas. Hanya tetapkan tujuan untuk mencari wajah ***Allah ﷻ*** 
+	1. Sebagaimana Bilal bin Rabbah, Yassir, saat mengucapkan Laa ilaaha illallah mereka semakin jauh pada dunia dan fokus pada wajah ***Allah ﷻ*** 
+	2. Jika saat perjalanan nya ternyata malah mendapat harta yang sedikit maka tidak jadi masalah, karena hanya
+	3. Kita diperintahkan tidak hanya ibadah tapi juga dengan **ikhlas**
+	4. ***Rasulallah ﷺ***  bersabda, seorang yang paling bahagia dengan syafaatku adalah orang yang mengucapkan laailaahaillallah dengan ikhlas di dalam hatinya mengharap wajah ***Allah ﷻ*** .
+
+## Syarat keempat
+1. **Jujur**. Mengucapkan sesuai dengan yang ada di hatinya. Mereka tidak berbohong, tidak juga seperti orang munafik yang bersyahadat tetapi tidak jujur saat mengatakannya. ***Allah ﷻ*** berfirman
+2. ![[QS. Al-Munafiqun (63)-1\|QS. Al-Munafiqun (63)-1]]
+3. ***Rasulallah ﷺ***  bersabda, tidaklah seorang mengucapkan laailaahaillallah dengan jujur, kecuali ***Allah ﷻ*** akan haramkan neraka baginya. [[30 - Database/Al-Hadits/HR. Bukhari no 128 - Jujur mengucap laailallah\|HR. Bukhari no 128 - Jujur mengucap laailallah]]
+

@@ -41,4 +41,3 @@ Biar adil, gw bikin **2 versi script**:
 
 
 
-`button-publish`

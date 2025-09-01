@@ -1,0 +1,115 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/penyebab-gagal-sabar/","tags":["kajian","TadzkiratusSamiWalMutakalim"]}
+---
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=76f-Xpck8Ls" target="_blank">https://www.youtube.com/watch?v=76f-Xpck8Ls</a></span></li><li><span><strong>Tags:</strong> kajian,TadzkiratusSamiWalMutakalim</span></li></ul></div>
+
+# Muqadimah
+1. Apabila ilmu tidak menambah iman, maka ilmu itu tersusupi virus hati; bisa jadi riya, ujub, sombong atau ada tendensi lain.
+2. ***Rasulallah ﷺ***  bersabda, barangsiapa yang beriman kepada ***Allah ﷻ*** dan hari akhir maka ia berkata baik atau diam.
+3. Ulama berkata hanya dengan adab / karakter penuntut ilmu, ia bisa mendapat ilmu bermanfaat.
+
+# Sabar itu berat
+1. Walaupun kata ini ramah dari dulu sering didengar sehari-hari. Namun kita hanya membahas nya secara global, tanpa mengkaji lebih dalam. Nasihat yang terucap hanya sebatas sabar titik. Sehingga banyak yang salah berpikir sabar itu diam.
+2. Sabar itu menahan dan mengontrol diri, amarah, kepiluan agar kita on-track di jalan yang benar. Bisa manuver, mundur, lari, tiarap, tergantung perintah ***Allah ﷻ*** dalam kondisi tersebut. ![[2025-07-20 22.54 Hakikat sabar yang tidak diketahui banyak orang#Definisi Sabar\|2025-07-20 22.54 Hakikat sabar yang tidak diketahui banyak orang#Definisi Sabar]]
+3. Sabar bisa dibagi tiga, yang nanti insyaa Allah akan dibahas.
+	1. Menjalankan ketaatan
+	2. Menjauhi yang dilarang
+	3. Menjalani musibah
+4. Bahkan saat masih mempelajari definisi sabar, sebelum kita membahas strategi untuk bisa sabar, kita merasa terbantu. Hati terpetakan karena memang sabar itu berat, menjalani suatu ujian itu berat. Bayangkan ketika ujian Matematika, seorang guru bilang ini adalah ujian tersulit di dunia, usahakan semaksimal mungkin.
+
+## Kunci sabar
+1. Minta tolong untuk sabar kepada ***Allah ﷻ*** . 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-an-nahl-16-127" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. An:Nahl 16:127
+وَاصْبِرْ وَمَا صَبْرُكَ اِلَّا بِاللّٰهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِيْ ضَيْقٍ مِّمَّا يَمْكُرُوْنَ 
+
+Artinya: *"Dan bersabarlah (Muhammad) dan kesabaranmu itu semata-mata dengan pertolongan Allah dan janganlah engkau bersedih hati terhadap (kekafiran) mereka dan jangan (pula) bersempit dada terhadap tipu daya yang mereka rencanakan."*
+
+
+
+</div></div>
+
+2. ***Rasulallah ﷺ***  bersabda, kalau menghadapi masalah shalat dua rakaat
+3. ***Allah ﷻ*** berfirman, minta tolonglah dengan sabar dan shalat 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-153" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:153
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوا اسْتَعِيْنُوْا بِالصَّبْرِ وَالصَّلٰوةِ ۗ اِنَّ اللّٰهَ مَعَ الصّٰبِرِيْنَ
+
+Artinya: *"Wahai orang-orang yang beriman! Mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sungguh, Allah beserta orang-orang yang sabar."*
+
+
+
+</div></div>
+
+4. Evaluasi apakah tauhid kita benar, apakah kita benar yakin bahwa sega sesuatu atas pertolongan ***Allah ﷻ*** . Jangan lupa minta tolong dulu kepada ***Allah ﷻ*** , boleh kita merancang strategi untuk sabar tetapi jangan lupa untuk minta tolong. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-a-raf-7-126" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:A'raf 7:126
+وَمَا تَنْقِمُ مِنَّآ اِلَّآ اَنْ اٰمَنَّا بِاٰيٰتِ رَبِّنَا لَمَّا جَاۤءَتْنَا ۗرَبَّنَآ اَفْرِغْ عَلَيْنَا صَبْرًا وَّتَوَفَّنَا مُسْلِمِيْنَ ࣖ 
+
+Artinya: *"Dan engkau tidak melakukan balas dendam kepada kami, melainkan karena kami beriman kepada ayat-ayat Tuhan kami ketika ayat-ayat itu datang kepada kami.” (Mereka berdoa), “Ya Tuhan kami, limpahkanlah kesabaran kepada kami dan matikanlah kami dalam keadaan muslim (berserah diri kepada-Mu).”"*
+
+
+
+</div></div>
+
+# Sesi Tanya Jawab
+## 1. Menghadapi istri yang suka ngomel
+1. Kembali pada hadits ***Rasulallah ﷺ***  bersabda perempuan diciptakan dari tulang rusuk yang bengkok. Sehingga perlunya memperlakukan perempuan dengan lembut dan bijaksana karena sifat “kebengkokan” itu tidak dapat diubah dengan paksaan. [[30 - Database/Al-Hadits/Hadits wanita diciptakan dari tulang rusuk yang bengkok\|Hadits wanita diciptakan dari tulang rusuk yang bengkok]]
+2. Marah tidak bisa dibiarkan jika membawa ke kemaksiatan. Nasihati tapi tidak selalu dipush setiap waktu, khawatir patah / talaq. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-at-tahrim-66-1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. At:Tahrim 66:1
+يٰٓاَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَآ اَحَلَّ اللّٰهُ لَكَۚ تَبْتَغِيْ مَرْضَاتَ اَزْوَاجِكَۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ 
+
+Artinya: *"Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu? Engkau ingin menyenangkan hati istri-istrimu? Dan Allah Maha Pengampun, Maha Penyayang. "*
+
+
+
+</div></div>
+
+3. **Ibnu Jauzi** berkata suami itu perlu **siasat**, bagian dari leadership (tidak polos). Sehingga harus tarik ulur, ada strateginya untuk menasihati istri.
+4. Hal-hal yang mubah dibiarkan, tidak perlu dikritik.
+5. Bisa jadi di antara kekurangan ***Allah ﷻ*** jadikan kebaikan 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-an-nisa-4-19" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. An:Nisa' 4:19
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا يَحِلُّ لَكُمْ اَنْ تَرِثُوا النِّسَاۤءَ كَرْهًا ۗ وَلَا تَعْضُلُوْهُنَّ لِتَذْهَبُوْا بِبَعْضِ مَآ اٰتَيْتُمُوْهُنَّ اِلَّآ اَنْ يَّأْتِيْنَ بِفَاحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوْهُنَّ بِالْمَعْرُوْفِ ۚ فَاِنْ كَرِهْتُمُوْهُنَّ فَعَسٰٓى اَنْ تَكْرَهُوْا شَيْـًٔا وَّيَجْعَلَ اللّٰهُ فِيْهِ خَيْرًا كَثِيْرًا 
+
+Artinya: *"Wahai orang-orang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya."*
+
+
+
+</div></div>
+
+## 2. Sabar identik dengan ujian dan ujian identik naik kelas. Apakah harus cari masalah? :)
+1. ***Rasulallah ﷺ***  bersabda, jangan berharap bertemu musuh. Mintalah keselamatan kepada ***Allah ﷻ*** 
+2. Hidu sudah banyak masalah, tidak perlu dicari. Bahkan jika semua yang kita miliki diberikan di dunia tetap bisa mendapat masalah.
+3. Bersyukur itu juga adalah ujian. Ketika mendapat nikmat dan tidak merasa itu adalah ujian, itu pun adalah ujian.
+
+## 3. Penanya gagal nikah dan didahului oleh adiknya.
+1. Baik sangka kepada ***Allah ﷻ*** , bahwa ***Allah ﷻ*** menyelamatkan penanya di hari sebelum nikah. 
+2. Husnudzan kepada keluarga yang tidak mengabari, untuk memberi waktu dan space penanya untuk healing
+3. Seorang kakak harusnya mengawal saudaranya yang akan menikah dan hadir di garda terdepan. 
+4. Setiap balasan bergantung amal. Jika kita ingin mendapatkan hak sebagai kakak, maka penuhi kewajiban kita sebagai kakak (dalam hal ini mengawal adiknya.)
+5. Boleh memberikan saran
+6. Jangan sibuk dengan minta hak sebagai kakak. Jika kita mau bahagia jangan sibuk menuntut hak, terus berusaha penuhi kewajiban kita. Tunaikan hak orang dan minta hak kita kepada ***Allah ﷻ*** 
+# Pengamalan
+1. Jangan lupa untuk minta tolong kepada ***Allah ﷻ*** untuk sabar dan ikuti do and don'ts dari ***Allah ﷻ*** 
+2. Pahami bahwa wanita diciptakan dari tulang rusuk yang bengkok, perlu strategi bagi suami untuk mendidiknya.
+3. Penuhi hak orang dan minta hak kita kepada ***Allah ﷻ*** 
+ 

@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/syarat-kalimat-tauhid-ketujuh/","tags":["kajian","RiyadushShalihin"]}
+---
+
+
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat Tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=7a_1_-zTst4" target="_blank">https://www.youtube.com/watch?v=7a_1_-zTst4</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
+
+# Catatan Kajian
+1. Syarat kalimat tauhid sebagai kunci kebahagiaan dunia dan akhirat adalah
+	1. Ilmu,  [[2025-08-04 05.46 Syarat kalimat tauhid pertama\|2025-08-04 05.46 Syarat kalimat tauhid pertama]]
+	2. yakin,  [[2025-08-05 05.49 Syarat kalimat tauhid kedua\|2025-08-05 05.49 Syarat kalimat tauhid kedua]]
+	3. ikhlas, [[2025-08-06 05.43 Syarat kalimat tauhid ketiga\|2025-08-06 05.43 Syarat kalimat tauhid ketiga]]
+	4. jujur, [[2025-08-07 05.52 Syarat kalimat tauhid keempat\|2025-08-07 05.52 Syarat kalimat tauhid keempat]]
+	5. cinta, [[2025-08-12 05.51 Syarat kalimat tauhid kelima\|2025-08-12 05.51 Syarat kalimat tauhid kelima]]
+	6. patuh. [[2025-08-13 05.39 Syarat kalimat tauhid keenam\|2025-08-13 05.39 Syarat kalimat tauhid keenam]]
+	7. **menerima**
+2. Harus menerima dengan hati dan lisan. ***Allah ﷻ*** telah mengisahkan kepada kita contoh kaum yang ***Allah ﷻ*** selamatkan karena mereka menerima kalimat laailaahaillallah dan juga kaum yang ***Allah ﷻ*** balas dan hancurkan karena mereka menolak kalimat laailaahaillallah.
+3. ![[QS. Yunus (10)-103\|QS. Yunus (10)-103]]
+4. ![[QS. As-Saffat (37)-35\|QS. As-Saffat (37)-35]]
+5. ![[QS. As-Saffat (37)-36\|QS. As-Saffat (37)-36]]
+6. ![[QS. As-Saffat (37)-37\|QS. As-Saffat (37)-37]]
+
+
+# Pengamalan
+1. Amalkan untuk menerapkan syarat laailaahailallah yang ke-7 yaitu menerima
+2. Kita harus menerima dengan lisan dan hati, tidak menyombongkan diri 
+	1. Sombong berarti menolak kebenaran dan merendahkan mahluk lain
+3. Tadaburi QS. Yunus (10):103 dan QS. As-Saffat (37):35-37
+  
