@@ -13,7 +13,7 @@ Ini semacam catatan personal tempat nyimpen ide, referensi, dan segala hal yang 
 >  ***Nabi ﷺ***  pun bersabda “_Jagalah ilmu dengan menulis._”
 >  - Shahih Al-Jami’, no.4434. Syaikh Al-Albani mengatakan bahwa hadits ini sahih[^1]
 
-Ini sistemnya ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] — _Capture_ (nangkap ide biar ga kabur), _Organize_ (ngebikin struktur biar gampang dicari lagi), _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan _Express_ (menuangin jadi tulisan atau karya nyata). Thanks to the [Obsidian](https://obsidian.md/) team for making this possible.
+Sistem ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] — _Capture_ (nangkap ide biar ga kabur), _Organize_ (ngebikin struktur biar gampang dicari lagi), _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan _Express_ (menuangin jadi tulisan atau karya nyata). Thanks to the [Obsidian](https://obsidian.md/) team for making this possible.
 
  Isinya kurang lebih ada: 
 1. catatan kajian online/offline, 
@@ -24,7 +24,7 @@ Ini sistemnya ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] — _Ca
 
 ![Fish-Man_Island%27s_Poneglyph.webp|400](/img/user/40%20-%20Obsidian/Assets/Fish-Man_Island%2527s_Poneglyph.webp)
 
-Kalau kalian pernah nonton One Piece[^3] (kalo blm sekarang skrg ngga?! wkwk) poneglyph itu batu kuno yang nyimpen tulisan penting tentang sejarah dunia yang berusaha dihilangkan sebagian pihak. Mereka tersebar di antara pulau-pulau di Dunia. Suka aja sama analogi ini: jadi catatan ini jadi semacam “batu jejak” aku sendiri, biar perjalanan pikiran dan pengalaman bisa terus kebaca lagi, ga hilang ditelan waktu. 
+Kalau kalian nonton One Piece[^3] (kalo blm nonton sekarang ngga🫵😁) poneglyph itu batu kuno yang nyimpen tulisan penting tentang sejarah dunia yang berusaha dihilangkan sebagian pihak. Mereka tersebar di antara pulau-pulau di Dunia One Piece. Suka aja sama analogi ini: catatan ini jadi semacam “batu jejak” aku sendiri, biar perjalanan pikiran dan pengalaman bisa terus kebaca lagi, ga hilang ditelan waktu, dan berkembang. 
 
 
 
