@@ -17,8 +17,8 @@ Sistem ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] — _Capture_ 
 
  Isinya kurang lebih ada: 
 1. catatan kajian online/offline, 
-2. journaling, 
-3. sampe riset-riset kecil terkait data science.
+2. journaling, dan
+3. riset kecil terkait data science.
 
 ## Kenapa namanya poneglyph?
 
