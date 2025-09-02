@@ -4,21 +4,23 @@
 
 
 # 🌱 My Poneglyph 
-Selamat datang kawan 👋  
-Ini semacam catatan personal tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. Tujuannya simpel: 
+Selamat datang kawan 👋 . Ini semacam personal blog tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. Tujuannya simpel: 
 1. biar catatan ngga ilang gitu aja, 
 2. antar catatan bisa terhubung + berkembang, dan 
 3. mudah-mudahan juga jadi ilmu yang bermanfaat.
 
->  ***Nabi ﷺ***  pun bersabda “_Jagalah ilmu dengan menulis._”
->  - Shahih Al-Jami’, no.4434. Syaikh Al-Albani mengatakan bahwa hadits ini sahih[^1]
+>  ***Nabi ﷺ***  bersabda “_Jagalah ilmu dengan menulis._” (Shahih Al-Jami’, no.4434)[^1]
 
-Sistem ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] — _Capture_ (nangkap ide biar ga kabur), _Organize_ (ngebikin struktur biar gampang dicari lagi), _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan _Express_ (menuangin jadi tulisan atau karya nyata). Thanks to the [Obsidian](https://obsidian.md/) team for making this possible.
-
- Isinya kurang lebih ada: 
+Thanks to the [Obsidian](https://obsidian.md/) team for making this possible. Konten di personal blog ini kurang lebih ada: 
 1. catatan kajian online/offline, 
 2. journaling, dan
 3. riset kecil terkait data science.
+
+Sistem ini ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] 
+-  _Capture_ (nangkap ide biar ga kabur)
+- _Organize_ (ngebikin struktur biar gampang dicari lagi), 
+- _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan 
+- _Express_ (menuangin jadi tulisan atau karya nyata). 
 
 ## Kenapa namanya poneglyph?
 
