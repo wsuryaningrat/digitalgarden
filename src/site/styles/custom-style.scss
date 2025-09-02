@@ -10,4 +10,16 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    /* Hanya berlaku untuk halaman home (dg-home: true) */
+body[data-dg-home="true"] .site-body-left-column,
+body[data-dg-home="true"] .site-body-right-column {
+  display: none !important;
+}
+
+/* Biar konten home jadi full width */
+body[data-dg-home="true"] .site-body-center-column {
+  max-width: 100% !important;
+  flex: 1 !important;
+}
+
 }
