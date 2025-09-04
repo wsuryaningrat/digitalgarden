@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/cara-mengecek-kejujuran-kita-kepada-allah-swt/","tags":["kajian"]}
 ---
 
-   
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=ht3SpRdC1dc" target="_blank">https://www.youtube.com/watch?v=ht3SpRdC1dc</a></span></li><li><span><strong>Tags:</strong> kajian</span></li></ul></div>
+
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=ht3SpRdC1dc" target="_blank">https://www.youtube.com/watch?v=ht3SpRdC1dc</a></span></li></ul></div>
+
+ 
 
 # Catatan Kajian
 ## Bagaimana mengecek kejujuran kita kepada ***Allah ﷻ*** dan bagaimana menumbuhkan cinta kepada ***Allah ﷻ*** ? Khususnya dalam mengevaluasi syarat Laa ilaaha illallah
@@ -62,8 +64,6 @@ Artinya: *"Katakanlah (Muhammad), “Sesungguhnya salatku, ibadahku, hidupku dan
 
 
 
-
-# Doa Memohon Cinta ***Allah ﷻ*** 
 
 اللَّهُمَّ إِنِّى أَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ وَالْعَمَلَ الَّذِى يُبَلِّغُنِى حُبَّكَ اللَّهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ إِلَىَّ مِنْ نَفْسِى وَأَهْلِى وَمِنَ الْمَاءِ الْبَارِدِ
 

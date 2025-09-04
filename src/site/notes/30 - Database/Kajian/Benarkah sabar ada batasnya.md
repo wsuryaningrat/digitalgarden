@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/benarkah-sabar-ada-batasnya/","tags":["kajian","TadzkiratusSamiWalMutakalim"]}
 ---
 
-# Meta Data Kajian 
+
+# Meta Data Kajian
 <div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=7sEW6-01tkw" target="_blank">https://www.youtube.com/watch?v=7sEW6-01tkw</a></span></li></ul></div>
+
+ 
 
 # Muqodimah Kajian
 1. Ulama berkata, salah satu keberkahan dalam menuntut ilmu adalah membahas suatu buku sampai selesai. Sebagaimana merutinkan kajian.

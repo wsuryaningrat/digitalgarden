@@ -3,10 +3,11 @@
 ---
 
 
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=FDWh4Mo810c" target="_blank">https://www.youtube.com/watch?v=FDWh4Mo810c</a></span></li></ul></div>
 
+ 
 
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=FDWh4Mo810c" target="_blank">https://www.youtube.com/watch?v=FDWh4Mo810c</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
 
 # Sesi Tanya Jawab
 ## 1. Bagaimana menguatkan hati di tengah ujian berat, melawan hawa nafsu, dan kedzaliman orang lain?

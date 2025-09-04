@@ -2,10 +2,16 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/hidup-itu-tidak-satu-warna/","tags":["kajian","TadzkiratusSamiWalMutakalim"]}
 ---
 
+
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Taqwa</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=nV2q-ZIHmMk&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t&amp;index=200" target="_blank">https://www.youtube.com/watch?v=nV2q-ZIHmMk&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t&amp;index=200</a></span></li></ul></div>
+
+
+
+
+
   
  
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Taqwa</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=nV2q-ZIHmMk&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t&amp;index=200" target="_blank">https://www.youtube.com/watch?v=nV2q-ZIHmMk&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t&amp;index=200</a></span></li><li><span><strong>Tags:</strong> kajian,TadzkiratusSamiWalMutakalim</span></li></ul></div>
 
 # Catatan Kajian
 ## 1. Muqadimah

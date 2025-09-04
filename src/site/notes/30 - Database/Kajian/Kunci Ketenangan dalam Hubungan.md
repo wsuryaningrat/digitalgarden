@@ -55,4 +55,3 @@ Dari Abu Hurairah _radhiyallahu ‘anhu_, dari Nabi _shallallahu ‘alaihi wa 
 1. Bangun pondasi dengan iman, bahwa ***Allah ﷻ*** akan hisab kita dan hukum kita termasuk yang ada dalam hati.
  
  
- `button-publish`

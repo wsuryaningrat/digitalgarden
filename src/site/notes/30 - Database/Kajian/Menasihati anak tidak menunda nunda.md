@@ -3,10 +3,13 @@
 ---
 
 
-
-
-# Meta Data Kajian 
+# Meta Data Kajian
 <div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=8njMTatrUKQ" target="_blank">https://www.youtube.com/watch?v=8njMTatrUKQ</a></span></li></ul></div>
+
+ 
+
+
+
 
 # Catatan Kajian
 ## Sulit menasihati anak yang suka menunda shalat bahkan pipis

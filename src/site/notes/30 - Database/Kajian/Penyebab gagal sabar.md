@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/penyebab-gagal-sabar/","tags":["kajian","TadzkiratusSamiWalMutakalim"]}
 ---
 
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=76f-Xpck8Ls" target="_blank">https://www.youtube.com/watch?v=76f-Xpck8Ls</a></span></li><li><span><strong>Tags:</strong> kajian,TadzkiratusSamiWalMutakalim</span></li></ul></div>
+
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=76f-Xpck8Ls" target="_blank">https://www.youtube.com/watch?v=76f-Xpck8Ls</a></span></li></ul></div>
+
 
 # Muqadimah
 1. Apabila ilmu tidak menambah iman, maka ilmu itu tersusupi virus hati; bisa jadi riya, ujub, sombong atau ada tendensi lain.

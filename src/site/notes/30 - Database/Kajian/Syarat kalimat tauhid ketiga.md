@@ -3,9 +3,15 @@
 ---
 
 
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/T3ydhJmggmY?si=9q4SJvwJig0o0gYY" target="_blank">https://www.youtube.com/live/T3ydhJmggmY?si=9q4SJvwJig0o0gYY</a></span></li></ul></div>
 
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/T3ydhJmggmY?si=9q4SJvwJig0o0gYY" target="_blank">https://www.youtube.com/live/T3ydhJmggmY?si=9q4SJvwJig0o0gYY</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
+
+
+
+
+
+
 
  
 # Catatan Kajian

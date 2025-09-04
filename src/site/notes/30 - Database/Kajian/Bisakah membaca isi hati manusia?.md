@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/bisakah-membaca-isi-hati-manusia/","tags":["kajian","RiyadushShalihin"]}
 ---
 
-   
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=j0HHVhZghxw" target="_blank">https://www.youtube.com/watch?v=j0HHVhZghxw</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
+
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=j0HHVhZghxw" target="_blank">https://www.youtube.com/watch?v=j0HHVhZghxw</a></span></li></ul></div>
+
 
 # Catatan Kajian
 1. Melanjutkan pembahasan hadits terakhir dalam bab ini.

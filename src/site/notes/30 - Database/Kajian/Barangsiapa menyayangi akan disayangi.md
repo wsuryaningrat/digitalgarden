@@ -3,10 +3,11 @@
 ---
 
 
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HIqL4q_Fb5E&amp;t=765s" target="_blank">https://www.youtube.com/watch?v=HIqL4q_Fb5E&amp;t=765s</a></span></li></ul></div>
 
+ 
 
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HIqL4q_Fb5E&amp;t=765s" target="_blank">https://www.youtube.com/watch?v=HIqL4q_Fb5E&amp;t=765s</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
 
 # Muqodimah
 1. Alhamdulilah kita bisa kembali bersua di majelis pagi ini. Semoga ***Allah ﷻ*** berikan keistiqomahan dalam bermajelis.

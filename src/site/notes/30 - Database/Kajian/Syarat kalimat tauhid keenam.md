@@ -2,10 +2,16 @@
 {"dg-publish":true,"permalink":"/30-database/kajian/syarat-kalimat-tauhid-keenam/","tags":["kajian","RiyadushShalihin"]}
 ---
 
+
+# Meta Data Kajian
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=-rgvaGg2AuE" target="_blank">https://www.youtube.com/watch?v=-rgvaGg2AuE</a></span></li></ul></div>
+
+
+
+
+
  
 
-# Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Syarat kalimat tauhid</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=-rgvaGg2AuE" target="_blank">https://www.youtube.com/watch?v=-rgvaGg2AuE</a></span></li><li><span><strong>Tags:</strong> kajian,RiyadushShalihin</span></li></ul></div>
 
  
 
