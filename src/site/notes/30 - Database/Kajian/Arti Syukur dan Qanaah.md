@@ -9,7 +9,7 @@
 <div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=giL1YlkFSfU" target="_blank">https://www.youtube.com/watch?v=giL1YlkFSfU</a></span></li></ul></div>
 
 # Catatan Kajian
-1. Perbanyak shalawat kepada ***Nabi ﷺ***  . [[Clippings/Perbanyaklah Shalawat di Hari Jum'at\|Perbanyaklah Shalawat di Hari Jum'at]]
+1. Perbanyak shalawat kepada ***Nabi ﷺ***  . [[30 - Database/Al-Hadits/Perbanyaklah Shalawat di Hari Jum'at\|Perbanyaklah Shalawat di Hari Jum'at]]
 2. Berdoa di ujung hari di hari Jumat
 3. Menjaga shalat Jumat
 
