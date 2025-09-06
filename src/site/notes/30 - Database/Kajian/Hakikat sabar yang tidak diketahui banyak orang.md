@@ -15,21 +15,22 @@
 
 ## Definisi Sabar
 Sabar adalah salah satu dari ahlaq terpuji yang disebutkan *Imam Ibnu Jamaah*.![Tadzkiratus saami - Imam Ibnu Jamaah - Ahlak Terpuji.png](/img/user/40%20-%20Obsidian/Assets/Tadzkiratus%20saami%20-%20Imam%20Ibnu%20Jamaah%20-%20Ahlak%20Terpuji.png)
-1. Sabar punya beberapa makna secara bahasa. [^1]. Detil masing-masing makna dijelaskan di bawah.
-	1. Bermakna *Al-Habsu (الحبس)* atau **menahan**. 
-	2. Bermakna *Syiddah (الشدة)* atau **keras**. 
-	3. Bermakna *Al-Jam‘ wa Ḍamm (الجمع والضم)* atau **mengumpulkan & menghimpun**. 
-	4. Bermakna *A‘lā syay’ (أعلى شيء)* atau **titik tertinggi** dari sesuatu
-2. Sabar secara istilah yang dijelaskan para ulama sebagai berikut
-	1. *Ibnul Qayyim* memberi keterangan, sabar itu **menahan diri** dari *jaza watashuq* dan menahan lisan dari *tasyawa*, menahan anggota tubuh dari *taswisy*
+### Arti sabar secara bahasa
+1. Bermakna *Al-Habsu (الحبس)* atau **menahan**. 
+2. Bermakna *Syiddah (الشدة)* atau **keras**. 
+3. Bermakna *Al-Jam‘ wa Ḍamm (الجمع والضم)* atau **mengumpulkan & menghimpun**. 
+4. Bermakna *A‘lā syay’ (أعلى شيء)* atau **titik tertinggi** dari sesuatu
+
+### Arti sabar secara istilah
+1. *Ibnul Qayyim* memberi keterangan, sabar itu **menahan diri** dari *jaza watashuq* dan menahan lisan dari *tasyawa*, menahan anggota tubuh dari *taswisy*
 		1. Jaza: ketakutan, kepanikan berlebihan, kegelisahan, meratap
 		2. Tasyahuq: kemarahan, tidak rela, atau tidak terima
 		3. Tasyawa: komplen, ngomel
 		4. Taswisy: kekacauan, kebingungan
-	2. *Ibnul Qayyim* memberi juga keterangan, sabar itu bersikap ketika menghadapi bala, ujian, atau musibah dengan **adab yang baik**.
-	3. *Amr bin Utsman* memberi keterangan, sabar itu kokoh bersama ***Allah ﷻ*** dan menghadapi ujian ***Allah ﷻ*** dengan sikap **kelapangan** dan **ketenangan**.
-3. Sabar bukan berarti diam, pasif, ga ngapa-ngapain, dan ga hanya terbatas ucapan. Melainkan kita harus tahan diri, kerja keras untuk, dan apapun benturan sekeras apapun harus bisa tahan. Untuk bisa itu harus mengumpulkan energi, menghimpun semua kekuatan dalam diri, minta pertolongan kepada ***Allah ﷻ*** . Jika bisa melakukan itu maka kita akan **mulia**. 
-4. Sabar ini ga kita pendam melainkan kita salurkan dalam keyakinan bahwa kita akan mendapatkan pahala dan keutamaan yang dijanjikan ***Allah ﷻ*** dan ***Rasulallah ﷺ***  .
+2. *Ibnul Qayyim* memberi juga keterangan, sabar itu bersikap ketika menghadapi bala, ujian, atau musibah dengan **adab yang baik**.
+3. *Amr bin Utsman* memberi keterangan, sabar itu kokoh bersama ***Allah ﷻ*** dan menghadapi ujian ***Allah ﷻ*** dengan sikap **kelapangan** dan **ketenangan**.
+4. Sabar bukan berarti diam, pasif, ga ngapa-ngapain, dan ga hanya terbatas ucapan. Melainkan kita harus tahan diri, kerja keras untuk, dan apapun benturan sekeras apapun harus bisa tahan. Untuk bisa itu harus mengumpulkan energi, menghimpun semua kekuatan dalam diri, minta pertolongan kepada ***Allah ﷻ*** . Jika bisa melakukan itu maka kita akan **mulia**. 
+5. Sabar ini ga kita pendam melainkan kita salurkan dalam keyakinan bahwa kita akan mendapatkan pahala dan keutamaan yang dijanjikan ***Allah ﷻ*** dan ***Rasulallah ﷺ***  .
 
 ## Keutamaan Bersabar
 1. ***Allah ﷻ*** janjikan kesuksesan dan tingkatan tertinggi dengan kunci **sabar & yakin**. ***Allah ﷻ*** berfirman dalam [[QS. As-Sajdah (32)-24\|QS. As-Sajdah (32)-24]]
