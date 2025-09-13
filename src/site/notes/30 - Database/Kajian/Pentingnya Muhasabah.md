@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/pentingnya-muhasabah/","tags":["kajian"]}
+---
+
+
+
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 49 | MENILAI MANUSIA SECARA NAMPAK DAN MENYERAHKAN RAHASIA-RAHASIA MEREKA KEPADA ALLAH ﷻ</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=psdDebB7pno" target="_blank">https://www.youtube.com/watch?v=psdDebB7pno</a></span></li></ul></div>
+
+# Catatan Kajian
+1. Salah satu kaidah dari bab ini adalah kita harus senantiasa muhasabah diri, mengevaluasi diri.
+2. Keterangan para ulama, yaitu [[Clippings/Ibnu Rijal\|Maimun bin Mihran]], Seseorang tidak menjadi orang bertaqwa sampai kita mengevaluasi diri kita lebih ketat daripada seseorang mengevaluasi partner bisnisnya. Sampai seseorang mengetahui hal-hal mendasar pada dirinya, seperti dari mana asal uang untuk makanan dan pakaiannya.
+	1. Juga lebih ketat dari para pemimpin yang dzalim
+	2. Juga lebih ketat dari partner bisnis yang pelit
+	3. Seseorang harus lebih ketat dari hal di atas jika ingin sukses bertaqwa
+
+# Pengamalan
+1. Evaluasi ketaqwaan kita kepada ***Allah ﷻ*** dengan ketat
+ 
+ 

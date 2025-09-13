@@ -124,4 +124,3 @@ Artinya: *"Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyuk
 1. Tujukan sabar kita untuk ***Allah ﷻ*** dan sebagai melaksanakan perintah ***Allah ﷻ*** . Sehingga kita bisa sukses sabar dan mendapat kemenangan.
  
  
- `button-publish`

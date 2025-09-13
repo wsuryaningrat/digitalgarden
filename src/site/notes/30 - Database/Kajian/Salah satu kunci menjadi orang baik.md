@@ -19,4 +19,3 @@
 1. Penting nya kita punya "penasihat" di dalam diri kita, rutin evaluasi diri atas niat dan nilai dalam diri.
  
  
- `button-publish`

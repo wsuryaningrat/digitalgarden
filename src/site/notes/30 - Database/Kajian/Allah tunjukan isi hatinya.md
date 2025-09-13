@@ -27,4 +27,3 @@ Artinya: *"Dan sekiranya Kami menghendaki, niscaya Kami perlihatkan mereka kepad
 1. Masyaa Allah konsep yang memudahkan interaksi manusia, kita tidak diperintahkan untuk menilai batin seseorang melainkan kita menilai dzahir seseorang, bertawakkal, istikharah, dan berdo'a kepada ***Allah ﷻ*** .
  
  
- `button-publish`
