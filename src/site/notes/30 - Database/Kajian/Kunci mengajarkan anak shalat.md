@@ -45,7 +45,7 @@ Artinya: *"Dan perintahkanlah keluargamu melaksanakan salat dan sabar dalam meng
 
 </div></div>
 
-2. Pelajari lagi hakikat sabar [[2025-07-20 22.54 Hakikat sabar yang tidak diketahui banyak orang\|2025-07-20 22.54 Hakikat sabar yang tidak diketahui banyak orang]]
+2. Pelajari lagi hakikat sabar [[30 - Database/Kajian/Hakikat sabar yang tidak diketahui banyak orang\|Hakikat sabar yang tidak diketahui banyak orang]]
  
 
  
