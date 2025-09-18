@@ -27,4 +27,3 @@
 2. Manfaatkan waktu pagi sebaik-baiknya, jangan tidur lagi!
  
  
- `button-publish`

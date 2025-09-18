@@ -34,11 +34,54 @@ Sabar adalah salah satu dari ahlaq terpuji yang disebutkan *Imam Ibnu Jamaah*.![
 
 ## Keutamaan Bersabar
 1. ***Allah ﷻ*** janjikan kesuksesan dan tingkatan tertinggi dengan kunci **sabar & yakin**. ***Allah ﷻ*** berfirman dalam [[QS. As-Sajdah (32)-24\|QS. As-Sajdah (32)-24]]
-	1. ![[QS. As-Sajdah (32)-24\|QS. As-Sajdah (32)-24]]
-2. ***Rasulallah ﷺ***  bersabda, kemenangan dan pertolongan bersama **kesabaran**. ***Allah ﷻ*** memberikan kabar gembira kepada orang yang sabar (yang bisa menahan diri). ![[QS. Al-Baqarah (2)-155\|QS. Al-Baqarah (2)-155]]
+	1. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-as-sajdah-32-24" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. As:Sajdah 32:24
+dg-home:
+
+وَجَعَلْنَا مِنْهُمْ اَىِٕمَّةً يَّهْدُوْنَ بِاَمْرِنَا لَمَّا صَبَرُوْاۗ وَكَانُوْا بِاٰيٰتِنَا يُوْقِنُوْنَ
+
+Artinya: *"Dan Kami jadikan di antara mereka itu pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami selama mereka sabar. Mereka meyakini ayat-ayat Kami."*
+
+
+
+</div></div>
+
+2. ***Rasulallah ﷺ***  bersabda, kemenangan dan pertolongan bersama **kesabaran**. ***Allah ﷻ*** memberikan kabar gembira kepada orang yang sabar (yang bisa menahan diri). 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-155" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:155
+وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوْعِ وَنَقْصٍ مِّنَ الْاَمْوَالِ وَالْاَنْفُسِ وَالثَّمَرٰتِۗ وَبَشِّرِ الصّٰبِرِيْنَ
+
+Artinya: *"Dan Kami pasti akan menguji kamu dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa, dan buah-buahan. Dan sampaikanlah kabar gembira kepada orang-orang yang sabar,"*
+
+
+
+</div></div>
+
 
 ## 1. Sabar bermakna menahan
-1. Sebagai mana firman ***Allah ﷻ*** ![[QS. Al-Kahf (18)-28\|QS. Al-Kahf (18)-28]]
+1. Sebagai mana firman ***Allah ﷻ*** 
+	1. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-kahf-18-28" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Kahf 18:28
+وَاصْبِرْ نَفْسَكَ مَعَ الَّذِيْنَ يَدْعُوْنَ رَبَّهُمْ بِالْغَدٰوةِ وَالْعَشِيِّ يُرِيْدُوْنَ وَجْهَهٗ وَلَا تَعْدُ عَيْنٰكَ عَنْهُمْۚ تُرِيْدُ زِيْنَةَ الْحَيٰوةِ الدُّنْيَاۚ وَلَا تُطِعْ مَنْ اَغْفَلْنَا قَلْبَهٗ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوٰىهُ وَكَانَ اَمْرُهٗ فُرُطًا
+
+Artinya: *"Dan bersabarlah engkau (Muhammad) bersama orang yang menyeru Tuhannya pada pagi dan senja hari dengan mengharap keridaan-Nya; dan janganlah kedua matamu berpaling dari mereka (karena) mengharapkan perhiasan kehidupan dunia; dan janganlah engkau mengikuti orang yang hatinya telah Kami lalaikan dari mengingat Kami, serta menuruti keinginannya dan keadaannya sudah melewati batas."*
+
+
+
+</div></div>
+
 2. Menahan diri dari segala hal yang haram agar kita tetap *on track* di atas jalan ***Allah ﷻ*** . Inilah mengapa ini merupakan *skill* yang susah karena kita harus **menahan** (hawa nafsu, ketakutan, panik, kekecewaan). Sabar juga berbeda dengan pasif.
 	1. Dalam konteks menghadapi musibah atau ujian, agar kita tidak **marah**, **panik**, atau **ketakutan berlebih** ketika menghadapi masalah atau ujian (dari jaza dan tasahud)
  
@@ -57,7 +100,21 @@ Sabar adalah salah satu dari ahlaq terpuji yang disebutkan *Imam Ibnu Jamaah*.![
 1. Sabar adalah salah satu ketinggian di dunia.
 2. Ketika menghadapi benturan sekeras apapun, kita berusaha keras, menghimpun kekuatan dan jiwa, maka kita akan mencapai titik tertinggi dalam kualitas hidup.
 3. Pemberian terbaik ketika kita mendapat kesulitan adalah bukan materi tapi adalah kemampuan untuk sabar.
-4. ***Allah ﷻ*** Maha Tinggi dan ***Allah ﷻ*** beserta orang-orang yang sabar. ***Allah ﷻ*** berfirman ![[QS. Al-Baqarah (2)-153\|QS. Al-Baqarah (2)-153]] 
+4. ***Allah ﷻ*** Maha Tinggi dan ***Allah ﷻ*** beserta orang-orang yang sabar. ***Allah ﷻ*** berfirman 
+	1. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-153" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:153
+يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوا اسْتَعِيْنُوْا بِالصَّبْرِ وَالصَّلٰوةِ ۗ اِنَّ اللّٰهَ مَعَ الصّٰبِرِيْنَ
+
+Artinya: *"Wahai orang-orang yang beriman! Mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sungguh, Allah beserta orang-orang yang sabar."*
+
+
+
+</div></div>
+ 
 
 
 [^1]: Madaarijus-Saabiriin wa Dzakhiirat ash-Syaakiriin oleh Ibnul Qayyim.
