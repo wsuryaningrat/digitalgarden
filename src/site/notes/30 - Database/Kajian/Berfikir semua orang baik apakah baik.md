@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-database/kajian/2025-09-20-05-36/","tags":["kajian"]}
+{"dg-publish":true,"permalink":"/30-database/kajian/berfikir-semua-orang-baik-apakah-baik/","tags":["kajian"]}
 ---
 
 
