@@ -18,27 +18,7 @@
 3. Ketahuilah, bahwa apa saja yang luput darimu, maka tidak akan pernah menimpamu. 
 4. Dan apa yang menimpamu, maka tidak akan pernah luput darimu. 
 5. Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan.
-
-## Hadits terkait
-6. 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# Meta Data Kajian
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Dr. Firanda Andirja, M.A.</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Tangan di atas lebih baik dari tangan di bawah</span></li><li><span><strong>Link Kajian:</strong>  </span></li></ul></div>
-
-
-
-
-
-  
-
-
-</div></div>
-
-## Referensi
-7. [HR. Tirmidzi, no. 2516; Ahmad, 1:293; Al-Hakim dalam _Al-Mustadrak_, 14:408. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini _hasan_. Syaikh Syu’aib Al-Arnauth dalam tahqiqnya terhadap Musnad Imam Ahmad menyatakan bahwa hadits ini sanadnya kuat].
-8. Sumber [https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html](https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html)
+ 
+ ## Referensi
+1. [HR. Tirmidzi, no. 2516; Ahmad, 1:293; Al-Hakim dalam _Al-Mustadrak_, 14:408. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini _hasan_. Syaikh Syu’aib Al-Arnauth dalam tahqiqnya terhadap Musnad Imam Ahmad menyatakan bahwa hadits ini sanadnya kuat].
+2. Sumber [https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html](https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html)

@@ -180,4 +180,3 @@ Artinya: *"Ya Tuhan kami, janganlah Engkau jadikan kami (sasaran) fitnah bagi or
 1. Mengingat definisi dari sabar itu adalah mengontrol diri kita, emosi, amarah, agar sesuai dengan apa yang ***Allah ﷻ*** mau dari kita dan kita lakukan dengan ikhlas karena cinta karena ***Allah ﷻ*** dan ini hanya bisa berhasil atas pertolongan ***Allah ﷻ*** .
  
  
- `button-publish`

@@ -14,7 +14,7 @@
 	2. Ilmu itu punya power yang luar biasa, semua kunci sukses pasti ada faktor ilmu
 	3. Ibnul Qayyim berkata, jihad bisa dengan senjata juga bisa dengan ilmu
 	4. Adab di sini adalah gabungan ilmu dasar, iman, dan amal yang real di kehidupan sehari-hari, yang dipraktekan oleh ***Nabi ﷺ***  . Manusia yang memiliki iman paling tinggi, oleh karena itu ***Nabi ﷺ***  memiliki ahlaq Al-Quran.
-2. Salah satu sifat yang harus dimiliki penuntut ilmu yang disampaikan [[Clippings/Badruddin Ibnu Jama'ah - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Ibnu Jamaah]] adalah **sabar**
+2. Salah satu sifat yang harus dimiliki penuntut ilmu yang disampaikan [[Clippings/Imam Badruddin Ibnu Jama'ah\|Ibnu Jamaah]] adalah **sabar**
 
 
 ## Tiga unsur sabar yang dijelaskan Ibnul Qayyim
@@ -116,9 +116,11 @@ Artinya: *"Dan sungguh, perempuan itu telah berkehendak kepadanya (Yusuf). Dan Y
 
 </div></div>
 
-2. Untuk bisa sabar bersama ***Allah ﷻ*** , kita harus mencari ilmu, kita harus tahu apa yang ***Allah ﷻ*** inginkan.
-3. Sebagaimana kisah Nabi Musa As dan Nabi Khidr As, ***Allah ﷻ*** memberikan pelajaran kepada Nabi Musa atas ilmu / syariat yang belum diketahui nya. Bahwa harus terus menjadi pribadi yang merendah dan tidak boleh mengklaim kita paling berilmu.
-4. Kita tidak bisa sabar tanpa memiliki ilmu. Jika tidak tahu maka tanyakan kepada yang berilmu, dan **jangan** berijtihad sendiri. 
+
+## Sabar butuh ilmu
+1. Untuk bisa sabar bersama ***Allah ﷻ*** , kita harus mencari ilmu, kita harus tahu apa yang ***Allah ﷻ*** inginkan.
+2. Sebagaimana kisah Nabi Musa As dan Nabi Khidr As, ***Allah ﷻ*** memberikan pelajaran kepada Nabi Musa atas ilmu / syariat yang belum diketahui nya. Bahwa harus terus menjadi pribadi yang merendah dan tidak boleh mengklaim kita paling berilmu.
+3. Kita tidak bisa sabar tanpa memiliki ilmu. Jika tidak tahu maka tanyakan kepada yang berilmu, dan **jangan** berijtihad sendiri. 
 
 ## Sesi tanya Jawab
 1. Memilliki istri yang suka marah-marah seperti radio yang mencari gelombang
