@@ -4,17 +4,13 @@
 
 
 # 🌱 The Poneglyph 
-Selamat datang kawan 👋 . Ini semacam personal blog tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. Tujuannya simpel: 
+Selamat datang👋 . Ini semacam personal blog tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. Tujuannya simpel: 
 1. biar catatan ngga ilang gitu aja, 
 2. antar catatan bisa terhubung + berkembang, dan 
 3. mudah-mudahan juga jadi ilmu yang bermanfaat.
 
 >  ***Nabi ﷺ***  bersabda “_Jagalah ilmu dengan menulis._” (Shahih Al-Jami’, no.4434)[^1]
-
-Thanks to the [Obsidian](https://obsidian.md/) team for making this possible. Konten di personal blog ini kurang lebih ada: 
-1. catatan kajian online/offline, 
-2. journaling, dan
-3. riset kecil terkait data science.
+ 
 
 Sistem ini ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] 
 -  _Capture_ (nangkap ide biar ga kabur)
@@ -22,7 +18,7 @@ Sistem ini ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2]
 - _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan 
 - _Express_ (menuangin jadi tulisan atau karya nyata). 
 
-## Kenapa namanya poneglyph?
+## Apa itu poneglyph?
 
 ![Fish-Man_Island%27s_Poneglyph.webp|400](/img/user/40%20-%20Obsidian/Assets/Fish-Man_Island%2527s_Poneglyph.webp)
 
