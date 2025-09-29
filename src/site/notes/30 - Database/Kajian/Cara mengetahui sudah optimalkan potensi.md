@@ -1,0 +1,63 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/cara-mengetahui-sudah-optimalkan-potensi/","tags":["kajian"]}
+---
+
+
+
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-09-29</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=ayMcnUpNc9s" target="_blank">https://www.youtube.com/watch?v=ayMcnUpNc9s</a></span></li></ul></div>
+
+# Catatan Kajian
+## Bagaimana mengetahui kita sudah mengoptimalkan potensi dari ***Allah ﷻ*** 
+1. Ini hal yang sulit dalam hidup karena tidak semua hal ada alat ukurnya
+	1. Pun dengan kehadiran science hanya bisa mengukur hal yang dzahir
+	2. Tapi memaksimalkan rasa ikhlas dan ridho tidak ada
+2. Karena hal di atas, hikmahnya kita harus terus berusaha dan menghadirkan rasa **takut** dan **harap** ***Allah ﷻ*** mengampuni dosa kita
+	1. Karena jika kita bisa mengukur hal bathin, oke kita udah maksimal. Apakah kita masih takut?
+3. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-mu-minun-23-60" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Mu'minun 23:60
+وَالَّذِيْنَ يُؤْتُوْنَ مَآ اٰتَوْا وَّقُلُوْبُهُمْ وَجِلَةٌ اَنَّهُمْ اِلٰى رَبِّهِمْ رٰجِعُوْنَ ۙ
+
+Artinya: *"dan mereka yang memberikan apa yang mereka berikan (sedekah) dengan hati penuh rasa takut (karena mereka tahu) bahwa sesungguhnya mereka akan kembali kepada Tuhannya,"*
+
+
+
+</div></div>
+
+4. Kita perlu guru atau sahabat yang bisa menegur kita dalam kehidupan, mengingat kembali [[#Kisah Abu Darda dan Salman Al-Farizi]]
+
+
+### Kisah Abu Darda dan Salman Al-Farisi
+1. Ketika Abu Darda terlalu berlebihan dalam beribadah dan tidak menunaikan hak istri, Salman menegurnya. Lantas Abu Darda datang dan bertanya kepada ***Nabi ﷺ*** , dan ***Nabi ﷺ*** bersabda Salman yang benar, dan menambahkan tunaikanlah semua hak.
+2. Terkait safar ***Nabi ﷺ*** bersabda. Satu pengendara itu syaiton, dua pengendara itu syaiton, tiga itu baru pengendara. Jika kita sendiri kita mudah dihasut syaiton. Syaiton lebih mudah menggoda ketika kita berdua.
+3. Kehidupan itu perjalanan, ***Nabi ﷺ*** bersabda jadikanlah dirimu asing (orang yang sedang safar)
+4. Hukum safar sendirian adalah makruh khususnya malam hari, kecuali dalam kondisi aman.
+
+## LDR Rumah Tangga, istri ingin dihadirkan sosok imam dari suami
+1. Ada konsekuensi dari tiap keputusan
+2. Rumah tangga harus dibangun atas saling memaafkan bukan saling meminta hak
+3. Terlebih dalam kondisi LDR, jika belum siap jangan LDR. Karena dalam posisi ini satu pihak harus saling mengcover tugas hak lain
+4. Menanamkan value harus solid
+5. Harus menanamkan kedekatan ruh dan jiwa
+6. Jika tidak bisa LDR, segera ubah pola
+7. Kalau dengan kerja hidup kita berantakan maka harus evaluasi.
+
+## Apakah perempuan dengan latar belakang buruk tidak berhak memiliki suami
+1. Parameter yang diukur adalah hari ini, bukan masa lalu.
+2. ***Nabi ﷺ*** bersabda, barangsiapa yang dalam hidupnya melaksanakan amalan surga tetapi di akhir hidupnya melaksanakan perbuatan ahli neraka, ia masuk neraka.
+3. Masa lalu terburuk adalah **syirik**, walaupun zina juga perilaku terkeji. Mengingat lagi kisah pembunuh 100 nyawa. 
+4. Mengingat lagi kisah Khalid bin Walid yang pada masa awalnya musuh dan pembunuh kaum Muslim, dan sekarang dikenal menjadi sahabat ***Nabi ﷺ*** yang penting.
+5. Jika alasan minder tidak punya rasa juang, termarginalkan dengan asumsi sendiri, maka tidak boleh memutuskan tidak menikah.
+6. Munculkan jiwa berjuang yang kuat!
+
+# Pengamalan
+1. Dalam hidup tidak semua ada tolak ukurnya, tetapi ini hikmah agar kita terus memperbaiki rukun ibadah yaitu menghadirkan rasa cinta, takut, dan harap kepada ***Allah ﷻ*** .
+2. Rumah tangga harus dibangun atas saling memaafkan bukan saling meminta hak.
+3. Parameter yang diukur bukan masa lalu, tapi hari ini.
+ 
+ 

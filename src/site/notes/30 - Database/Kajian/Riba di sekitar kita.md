@@ -1,0 +1,95 @@
+---
+{"dg-publish":true,"permalink":"/30-database/kajian/riba-di-sekitar-kita/","tags":["kajian"]}
+---
+
+
+
+
+# Meta Data Kajian 
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Ammi Nur Baits</span></li><li><span><strong>Materi:</strong> Riba</span></li><li><span><strong>Sub Materi:</strong> Riba</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/YPjEjZ_cpgg?si=qlJjH00O1l2g_ek4" target="_blank">https://www.youtube.com/live/YPjEjZ_cpgg?si=qlJjH00O1l2g_ek4</a></span></li></ul></div>
+
+# Catatan Kajian
+1. Pembahasan kajian hari ini adalah tentang ada riba di sekitar kita, materi yang disampaikan mungkin pernah disampaikan sebelumnya, namun tidak ada salahnya mengulang-ulang materi karena ilmu itu harus diulang-ulang supaya tidak lupa. 
+2. Berkaitan dengan urusan dunia ada yang sifatnya mubah (halal) dan dilarang (haram) An-Nu'mān bin Basyīr -raḍiyallāhu 'anhu- meriwayatkan, Aku mendengar Rasulullah ﷺ bersabda -sembari An-Nu'mān menunjuk kedua jarinya ke telinganya-, "Sesungguhnya yang halal itu jelas dan yang haram itu juga jelas. Di antara keduanya terdapat hal-hal syubhat (samar) yang umumnya manusia tidak mengetahuinya. Siapa yang menjaga diri dari perkara syubhat, maka ia telah menjaga agama dan kehormatannya. 
+3. Tetapi siapa yang jatuh ke dalam perkara syubhat, maka ia akan jatuh dalam perkara yang haram. Ia bagaikan seorang penggembala yang menggembalakan hewan ternaknya di sekitar kawasan terlarang, kemungkinan ia akan masuk dan makan di dalamnya. Ketahuilah, setiap penguasa mempunyai daerah larangan. Ketahuilah, larangan Allah adalah apa-apa yang diharamkan-Nya. Ketahuilah, di dalam jasad manusia ada segumpal daging, jika ia baik maka baik pula seluruh jasadnya, dan jika ia rusak maka rusak pula seluruh jasadnya. Ketahuilah, segumpal daging itu adalah hati."[Sahih] - [Muttafaq 'alaihi] - [Sahih Muslim - 1599] 
+4. Perkara yang haram, telah didetailkan oleh Allah dalam firmanNya 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-an-am-6-119" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:An'am 6:119
+وَمَا لَكُمْ اَلَّا تَأْكُلُوْا مِمَّا ذُكِرَ اسْمُ اللّٰهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُمْ مَّا حَرَّمَ عَلَيْكُمْ اِلَّا مَا اضْطُرِرْتُمْ اِلَيْهِ ۗوَاِنَّ كَثِيرًا لَّيُضِلُّوْنَ بِاَهْوَاۤىِٕهِمْ بِغَيْرِ عِلْمٍ ۗاِنَّ رَبَّكَ هُوَ اَعْلَمُ بِالْمُعْتَدِيْنَ 
+
+Artinya: *"Dan mengapa kamu tidak mau memakan dari apa (daging hewan) yang (ketika disembelih) disebut nama Allah, padahal Allah telah menjelaskan kepadamu apa yang diharamkan-Nya kepadamu, kecuali jika kamu dalam keadaan terpaksa. Dan sungguh, banyak yang menyesatkan orang dengan keinginannya tanpa dasar pengetahuan. Tuhanmu lebih mengetahui orang-orang yang melampaui batas."*
+
+
+
+</div></div>
+
+5. Sehingga perkara haram dalam dunia harus rinci, karena jika tidak tahu rinciannya dikhawatirkan akan terjatuh dalam perkara haram tanpa sadar. Sebagaimana kita mengenal dengan rincian dosa-dosa pembatal keislaman seperti syirik, maupun dosa-dosa besar lainnya. Lihatlah seorang sahabat yang mulia yaitu Hudzaifah Ibnul Yaman, begitu semangat mengenali kejelekan, di samping ia juga paham amalan baik. Hudzaifah berkata, “Manusia dahulu biasa bertanya pada Rasulullah shallallahu ‘alaihi wa sallam mengenai kebaikan. Aku sendiri sering bertanya mengenai kejelekan supaya aku tidak terjerumus di dalamnya.” ( HR. Bukhari no. 3411 dan Muslim no. 1847) Dalam riwayat lain di Sunan Ibnu Majah, dari Abu Hurairah radhiyallahu ‘anhu, Nabi ﷺ bersabda, الرِّبَا سَبْعُونَ حُوبًا أَيْسَرُهَا أَنْ يَنْكِحَ الرَّجُلُ أُمَّهُ Riba itu ada 70 dosa. Yang paling ringan, seperti seorang anak berzina dengan ibunya. (HR. Ibnu Majah 2360 dan dishahihkan al-Albani) Riba secara bahasa maknanya tumbuh dan berkembang, dalilnya firman Allah dalam Surat Al-Haqqah Ayat 10 فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً Artinya: Maka (masing-masing) mereka mendurhakai rasul Tuhan mereka, lalu Allah menyiksa mereka dengan siksaan yang sangat keras. Riba secara istilah yang lebih luas yakni semua transaksi yang dilarang syariat, Ibnu Abi Aufa radhiyallahu ‘anhu berkata, لنَّاجِشُ آكِلُ رِبًا خَائِنٌ“ Orang yang melakukan jual beli najasy adalah orang yang memakan riba dan seorang yang tidak amanah” (Ma La Yasa’ at Tajir Jahluhu,hlm. 15) wallahu'alam
+
+## Definisi Riba
+1. Secara **bahasa** dari kata rabaa-yarbuu artinya tambahan atau tumbuh.
+2. **Rabiyah** artinya siksa yang terus bertumbuh [[30 - Database/Al-Quran/All Surah#QS. Al Haqqah 69 10\|All Surah#QS. Al Haqqah 69 10]]
+3. **Rabat** artinya tumbuh [[30 - Database/Al-Quran/All Surah#QS. Al Hajj 22 5\|All Surah#QS. Al Hajj 22 5]]
+4. Secara **istilah** dalam syariat, ada 2 pengertian
+	1. Luas; semua transaksi yang dilarang oleh syariat. Seperti perilaku Najsy (dari salafi Ibnu Abi Aufa) atau jual beli khamr (Hadits dari Aisyah).
+	2. Spesifik; tambahan khusus yang dimiliki salah satu dari dua orang yang melakukan transaksi tanpa imbalan sebaliknya.
+![Screenshot 2025-09-26 at 06.09.14.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202025-09-26%20at%2006.09.14.png)	3. 
+
+## Najsy
+1. Ibnu Abi Aufa memberi keterangan perilaku Najsy adalah mereka perilaku riba dan tidak amanah
+2. Menipu pembeli dengan berpura-pura membeli 
+3. Jual beli followers, seolah-olah laris
+4. Testimoni yang tidak organik, misalnya menyuruh orang.
+
+## Fase Riba
+1. Di dunia, hartanya dibinasakan. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-276" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:276
+يَمْحَقُ اللّٰهُ الرِّبٰوا وَيُرْبِى الصَّدَقٰتِ ۗ وَاللّٰهُ لَا يُحِبُّ كُلَّ كَفَّارٍ اَثِيْمٍ
+
+Artinya: *"Allah memusnahkan riba dan menyuburkan sedekah. Allah tidak menyukai setiap orang yang tetap dalam kekafiran dan bergelimang dosa."*
+
+
+
+</div></div>
+
+	1. Dari Ibnu Katsir, tafsirnya ***Allah ﷻ*** bisa membinasakan dirinya (Firaun) atau keberkahan hartanya (Qarun).
+	2. Misalnya orang yang punya harta rumah mewah mobil mewah tapi ia pergi keluar negeri karena takut.
+	3. Dari Ibnu Masud, akhir hidupnya akan miskin
+2. Di alam kubur, berenang di sungai darah. ***Nabi ﷺ*** bersabda, ketika mengisahkan aneka hukuman di dalam kubur. Pelaku riba digambarkan dilempari batu ke dalam mulutnya setiap kali mau keluar sungai.
+3. Dibangkitkan seperti kerasukan syaitan. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-275" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:275
+اَلَّذِيْنَ يَأْكُلُوْنَ الرِّبٰوا لَا يَقُوْمُوْنَ اِلَّا كَمَا يَقُوْمُ الَّذِيْ يَتَخَبَّطُهُ الشَّيْطٰنُ مِنَ الْمَسِّۗ ذٰلِكَ بِاَنَّهُمْ قَالُوْٓا اِنَّمَا الْبَيْعُ مِثْلُ الرِّبٰواۘ وَاَحَلَّ اللّٰهُ الْبَيْعَ وَحَرَّمَ الرِّبٰواۗ  فَمَنْ جَاۤءَهٗ مَوْعِظَةٌ مِّنْ رَّبِّهٖ فَانْتَهٰى فَلَهٗ مَا سَلَفَۗ وَاَمْرُهٗٓ اِلَى اللّٰهِ ۗ وَمَنْ عَادَ فَاُولٰۤىِٕكَ اَصْحٰبُ النَّارِ ۚ هُمْ فِيْهَا خٰلِدُوْنَ
+
+Artinya: *"Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kemasukan setan karena gila. Yang demikian itu karena mereka berkata bahwa jual beli sama dengan riba. Padahal Allah telah menghalalkan jual beli dan mengharamkan riba. Barangsiapa mendapat peringatan dari Tuhannya, lalu dia berhenti, maka apa yang telah diperolehnya dahulu menjadi miliknya dan urusannya (terserah) kepada Allah. Barangsiapa mengulangi, maka mereka itu penghuni neraka, mereka kekal di dalamnya."*
+
+
+
+</div></div>
+
+4. Di Mahsyar ditantang perang. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-279" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Baqarah 2:279
+فَاِنْ لَّمْ تَفْعَلُوْا فَأْذَنُوْا بِحَرْبٍ مِّنَ اللّٰهِ وَرَسُوْلِهٖۚ وَاِنْ تُبْتُمْ فَلَكُمْ رُءُوْسُ اَمْوَالِكُمْۚ  لَا تَظْلِمُوْنَ وَلَا تُظْلَمُوْنَ
+
+Artinya: *"Jika kamu tidak melaksanakannya, maka umumkanlah perang dari Allah dan Rasul-Nya. Tetapi jika kamu bertobat, maka kamu berhak atas pokok hartamu. Kamu tidak berbuat zalim (merugikan) dan tidak dizalimi (dirugikan)."*
+
+
+
+</div></div>
+
+5. Ancaman Neraka [[30 - Database/Al-Quran/All Surah#QS. Al Baqarah 2 275\|All Surah#QS. Al Baqarah 2 275]]
+ 
+ 
