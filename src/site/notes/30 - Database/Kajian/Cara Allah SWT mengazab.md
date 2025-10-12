@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-06</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=528PE6d4Kr4" target="_blank">https://www.youtube.com/watch?v=528PE6d4Kr4</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=528PE6d4Kr4" target="_blank">https://www.youtube.com/watch?v=528PE6d4Kr4</a></span></li></ul></div>
 
 # Catatan Kajian
 1. Bersyukur kembali bisa dipertemukan dengan Imam Nawawi. Semoga ***Allah ﷻ*** merahmati beliau, guru-guru beliau, keluarga beliau.
@@ -19,4 +19,3 @@
 1. Jangan salah sangka. ***Allah ﷻ*** bisa menunda azab seseorang tapi yang pasti bahwa azab ***Allah ﷻ*** sangat pedih dan berat. Tadaburi kembali QS. Hud 102
  
  
- `button-publish`

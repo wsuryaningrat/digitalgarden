@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-09</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=5DcCLptfRfA" target="_blank">https://www.youtube.com/watch?v=5DcCLptfRfA</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=5DcCLptfRfA" target="_blank">https://www.youtube.com/watch?v=5DcCLptfRfA</a></span></li></ul></div>
 
 # Catatan Kajian
 1. ***Allah ﷻ*** berfirman 
@@ -82,4 +82,3 @@ Artinya: *"Dan sungguh, akan Kami isi neraka Jahanam banyak dari kalangan jin da
 	2. [[30 - Database/Al-Quran/All Surah#QS. Al A'raf 7 179\|All Surah#QS. Al A'raf 7 179]]
  
  
- `button-publish`
