@@ -4,31 +4,30 @@
 
 
 # 🌱 The Poneglyph 
-Selamat datang👋 . Ini semacam personal blog tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. Tujuannya simpel: 
-1. biar catatan ngga ilang gitu aja, 
-2. antar catatan bisa terhubung + berkembang, dan 
-3. mudah-mudahan juga jadi ilmu yang bermanfaat.
-
->  ***Nabi ﷺ***  bersabda “_Jagalah ilmu dengan menulis._” (Shahih Al-Jami’, no.4434)[^1]
- 
-
-Sistem ini ngadopsi konsep _second brain_ dengan prinsip **CODE**[^2] 
--  _Capture_ (nangkap ide biar ga kabur)
-- _Organize_ (ngebikin struktur biar gampang dicari lagi), 
-- _Distill_ (ngerangkum esensi biar ga numpuk info doang), dan 
-- _Express_ (menuangin jadi tulisan atau karya nyata). 
+Hello there! Ini semacam personal blog tempat nyimpen ide, referensi, dan segala hal yang lagi dipelajarin. 
+Sistem ini ngadopsi konsep _second brain_ dengan prinsip **CODE**[^1] 
+-  _Capture_ (tangkap ide-ide)
+- _Organize_ (bikin terstruktur), 
+- _Distill_ (ngerangkum dan ekstrak esensi nya), dan 
+- _Express_ (tuangin jadi gagasan). 
 
 ## Apa itu poneglyph?
 
 ![Fish-Man_Island%27s_Poneglyph.webp|400](/img/user/40%20-%20Obsidian/Assets/Fish-Man_Island%2527s_Poneglyph.webp)
 
-Kalau kalian nonton One Piece[^3] (kalo blm nonton sekarang ngga🫵😁) poneglyph itu batu kuno yang nyimpen tulisan penting tentang sejarah dunia yang berusaha dihilangkan sebagian pihak. Mereka tersebar di antara pulau-pulau di Dunia One Piece. Suka aja sama analogi ini: catatan ini jadi semacam “batu jejak” aku sendiri, biar perjalanan pikiran dan pengalaman bisa terus kebaca lagi, ga hilang ditelan waktu, dan berkembang. 
+Buat yang nonton One Piece[^2] pasti udah ga asing sama **poneglyph**. Itu batu kuno yang nyimpen tulisan penting tentang sejarah dunia yang berusaha dihilangkan sebagian pihak. Poneglyph tersebar di antara pulau-pulau di dunia One Piece. Suka aja sama analogi ini, di mana catatan ini jadi semacam “batu jejak” personal, biar perjalanan pikiran dan pengalaman bisa jadi ilmu bermanfaat, dan terus berkembang. 
+
+
+>  ***Nabi ﷺ***  bersabda “_Jagalah ilmu dengan menulis._” (Shahih Al-Jami’, no.4434)
+ 
+
+## Latest Notes
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Judul Kajian</span><span class="dataview small-text">5</span></th><th class="table-view-th"><span>Materi Kajian</span></th><th class="table-view-th"><span>Pemateri Kajian</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="30 - Database/Kajian/Keadaan hari akhirat.md" data-href="30 - Database/Kajian/Keadaan hari akhirat.md" href="30 - Database/Kajian/Keadaan hari akhirat.md" class="internal-link" target="_blank" rel="noopener nofollow">Keadaan hari akhirat</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Riyadush Shalihin</span></li></ul></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Ustadz Muhammad Nuzul Dzikri, Lc</span></li></ul></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="30 - Database/Kajian/Allah tidak menunda hari kiamat.md" data-href="30 - Database/Kajian/Allah tidak menunda hari kiamat.md" href="30 - Database/Kajian/Allah tidak menunda hari kiamat.md" class="internal-link" target="_blank" rel="noopener nofollow">Allah tidak menunda hari kiamat</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Riyadush Shalihin</span></li></ul></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Ustadz Muhammad Nuzul Dzikri, Lc</span></li></ul></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="30 - Database/Kajian/Tiga bentuk kesabaran.md" data-href="30 - Database/Kajian/Tiga bentuk kesabaran.md" href="30 - Database/Kajian/Tiga bentuk kesabaran.md" class="internal-link" target="_blank" rel="noopener nofollow">Tiga bentuk kesabaran</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Tadzkiratus Sami Wal Mutakallim</span></li></ul></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Ustadz Muhammad Nuzul Dzikri, Lc</span></li></ul></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="30 - Database/Kajian/Lima pilar pemimpin.md" data-href="30 - Database/Kajian/Lima pilar pemimpin.md" href="30 - Database/Kajian/Lima pilar pemimpin.md" class="internal-link" target="_blank" rel="noopener nofollow">Lima pilar pemimpin</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Riyadush Shalihin</span></li></ul></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Ustadz Muhammad Nuzul Dzikri, Lc</span></li></ul></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="30 - Database/Kajian/Tiga tingkatan sabar.md" data-href="30 - Database/Kajian/Tiga tingkatan sabar.md" href="30 - Database/Kajian/Tiga tingkatan sabar.md" class="internal-link" target="_blank" rel="noopener nofollow">Tiga tingkatan sabar</a></span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Tadzkiratus Sami Wal Mutakallim</span></li></ul></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Ustadz Muhammad Nuzul Dzikri, Lc</span></li></ul></td></tr></tbody></table></div>
 
 
 
-[^1]: https://rumaysho.com/13457-beliau-pun-menyimak-dan-mencatat-ikatlah-ilmu-dengan-menulis.html
-	
 
-[^2]: https://www.youtube.com/watch?v=jVWYlSQ5XkA&pp=0gcJCf8Ao7VqN5tD
 
-[^3]: https://en.wikipedia.org/wiki/One_Piece
+[^1]: https://www.youtube.com/watch?v=jVWYlSQ5XkA&pp=0gcJCf8Ao7VqN5tD
+
+[^2]: https://en.wikipedia.org/wiki/One_Piece
