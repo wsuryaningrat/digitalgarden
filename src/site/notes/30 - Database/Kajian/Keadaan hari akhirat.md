@@ -99,5 +99,3 @@ Artinya: *"Setiap yang bernyawa akan merasakan mati. Dan hanya pada hari Kiamat 
 
 
 
-
- `button-publish`

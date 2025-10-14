@@ -16,7 +16,7 @@
 
 
 ## Lima pilar pemimpin
-[[50 - Public/Seeds/asy-Syafi'i - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Imam Asy-Syafi'i]] memberi keterangan, pemimpin yang baik harus punya 5 pilar
+[[50 - Public/Seeds/Imam Asy-Syafi'i\|Imam Asy-Syafi'i]] memberi keterangan, pemimpin yang baik harus punya 5 pilar
 1. Jika dia berbicara dia jujur. Memiliki kecerdasan linguistik dan jujur
 2. Tidak membuka rahasia. Seorang mukmin saja itu 'kuburan' rahasia
 3. Setia dengan kesepakatan. Bahkan kepada orang yang tidak shaleh.

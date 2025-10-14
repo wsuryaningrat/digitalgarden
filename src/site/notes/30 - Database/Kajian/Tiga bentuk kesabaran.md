@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-10-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t" target="_blank">https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-10-14</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t" target="_blank">https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t</a></span></li></ul></div>
 
 
 # I. Faedah Utama Mengenai Ilmu dan Kesabaran
@@ -17,7 +17,7 @@
     
 - **Referensi Ulama:**
     
-    > **Imam Ibnu Hazam** menyampaikan: **"Sebaik-baik ilmu itu adalah yang membuat engkau dekat dengan Penciptamu dan yang menolongmu agar bisa sampai dalam keridhaan-Nya."** [[03:09](http://www.youtube.com/watch?v=uO4D406QxM8&t=189)]
+    > [[50 - Public/Seeds/Imam Ibnu Hazm\|Imam Ibnu Hazm]] menyampaikan: **"Sebaik-baik ilmu itu adalah yang membuat engkau dekat dengan Penciptamu dan yang menolongmu agar bisa sampai dalam keridhaan-Nya."** [[03:09](http://www.youtube.com/watch?v=uO4D406QxM8&t=189)]
     
 
 ## 2. Definisi Sejati Kesabaran (As-Sabru)
@@ -57,7 +57,19 @@ Para ulama membagi kesabaran menjadi tiga bentuk yang wajib dihayati dalam kehid
     
 - **Referensi Al-Qur'an:**
     
-    > **"Dan Kami jadikan sebagian kamu cobaan bagi sebagian yang lain. Maukah kamu bersabar? Dan Tuhanmu Maha Melihat."** (QS. Al-Furqan [25]: 20, disampaikan pada [[52:21](http://www.youtube.com/watch?v=uO4D406QxM8&t=3141)] hingga [[52:58](http://www.youtube.com/watch?v=uO4D406QxM8&t=3178)]).
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-furqan-25-20" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Al:Furqan 25:20
+وَمَآ اَرْسَلْنَا قَبْلَكَ مِنَ الْمُرْسَلِيْنَ اِلَّآ اِنَّهُمْ لَيَأْكُلُوْنَ الطَّعَامَ وَيَمْشُوْنَ فِى الْاَسْوَاقِۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً  ۗ اَتَصْبِرُوْنَۚ وَكَانَ رَبُّكَ بَصِيْرًا ࣖ   ۔
+
+Artinya: *"Dan Kami tidak mengutus rasul-rasul sebelummu (Muhammad), melainkan mereka pasti memakan makanan dan berjalan di pasar-pasar. Dan Kami jadikan sebagian kamu sebagai cobaan bagi sebagian yang lain. Maukah kamu bersabar? Dan Tuhanmu Maha Melihat."*
+
+
+
+</div></div>
+
     
 
 #### 2. Mengelola Hati dan Jiwa yang Bergejolak
@@ -79,4 +91,3 @@ Para ulama membagi kesabaran menjadi tiga bentuk yang wajib dihayati dalam kehid
     
 - **Langkah Pengambilan Keputusan:** Jangan tergesa-gesa. Lakukan dua langkah utama: **Istikharah** (meminta petunjuk Allah) dan **Musyawarah** (konsultasi dengan ahli/ulama) sebelum mengambil keputusan berat. [[01:13:44](http://www.youtube.com/watch?v=uO4D406QxM8&t=4424)]
  
- `button-publish`

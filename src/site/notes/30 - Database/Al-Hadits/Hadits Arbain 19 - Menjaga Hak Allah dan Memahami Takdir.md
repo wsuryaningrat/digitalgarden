@@ -17,8 +17,8 @@
 2. Kenalilah Allah di saat senang, niscaya Allah mengenalmu di saat susah. 
 3. Ketahuilah, bahwa apa saja yang luput darimu, maka tidak akan pernah menimpamu. 
 4. Dan apa yang menimpamu, maka tidak akan pernah luput darimu. 
-5. Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan.
+5. Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan
  
  ## Referensi
-1. [HR. Tirmidzi, no. 2516; Ahmad, 1:293; Al-Hakim dalam _Al-Mustadrak_, 14:408. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini _hasan_. Syaikh Syu’aib Al-Arnauth dalam tahqiqnya terhadap Musnad Imam Ahmad menyatakan bahwa hadits ini sanadnya kuat].
-2. Sumber [https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html](https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html)
+6. [HR. Tirmidzi, no. 2516; Ahmad, 1:293; Al-Hakim dalam _Al-Mustadrak_, 14:408. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini _hasan_. Syaikh Syu’aib Al-Arnauth dalam tahqiqnya terhadap Musnad Imam Ahmad menyatakan bahwa hadits ini sanadnya kuat].
+7. Sumber [https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html](https://rumaysho.com/19629-hadits-arbain-19-menjaga-hak-allah-dan-memahami-takdir.html)
