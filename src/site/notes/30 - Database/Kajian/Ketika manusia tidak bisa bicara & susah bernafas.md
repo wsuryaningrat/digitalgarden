@@ -86,4 +86,3 @@ Artinya: *"Maka adapun orang-orang yang sengsara, maka (tempatnya) di dalam nera
 
  
  
- `button-publish`
