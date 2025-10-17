@@ -87,4 +87,3 @@ Bagi istri yang berjuang melawan trauma perselingkuhan suami, dan suami yang men
     - **Hindun binti Muharlam** berkata: "Saya tidak pernah melihat solusi yang lebih baik bagi wanita-wanita salehah, bahkan wanita-wanita yang buruk, dibanding dinikahkan dengan laki-laki yang **bisa menenangkan** mereka." [[39:12](http://www.youtube.com/watch?v=Y7SdUNhA4hM&t=2352)] - [[41:06](http://www.youtube.com/watch?v=Y7SdUNhA4hM&t=2466)]. Ini menegaskan bahwa kebutuhan utama wanita adalah ketenangan yang diberikan suami.
  
  
- `button-publish`
