@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-10-23</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=czKrdReq2Ck&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=3" target="_blank">https://www.youtube.com/watch?v=czKrdReq2Ck&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=3</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-10-25</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=czKrdReq2Ck&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=3" target="_blank">https://www.youtube.com/watch?v=czKrdReq2Ck&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=3</a></span></li></ul></div>
 
 # Catatan Kajian
 ## Kerja dengan tupoksi tidak jelas

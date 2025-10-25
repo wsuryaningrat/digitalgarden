@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-24</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HmK2kPXLVMk" target="_blank">https://www.youtube.com/watch?v=HmK2kPXLVMk</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-25</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HmK2kPXLVMk" target="_blank">https://www.youtube.com/watch?v=HmK2kPXLVMk</a></span></li></ul></div>
 
 # Catatan Kajian
 Kajian ini adalah lanjutan tafsir Surah Ali Imran ayat 28 dan 30, [[30 - Database/Kajian/Saat Allah SWT Memperingatkan Kita Tentang Diri-Nya\|Saat Allah SWT Memperingatkan Kita Tentang Diri-Nya]], dengan fokus pada frasa **"Dan Allah memperingatkan kamu terhadap diri-Nya"** (_Wa yuḥaẓẓirukumullāhu nafsah_) dan penutupnya **"Dan Allah Maha Penyayang terhadap hamba-hamba-Nya"** (_Wallāhu ra'ūfun bil-'ibād_).
@@ -34,4 +34,3 @@ Artinya: *"(Ingatlah) pada hari (ketika) setiap jiwa mendapatkan (balasan) atas 
 | **5. Rukun Ibadah**                                         | **Keseimbangan:** Ibadah harus ditegakkan di atas tiga rukun utama: **Cinta** (_Mahabbah_), **Harap** (_Rajā'_) dan **Takut** (_Khauf_). Kita harus memadukan rasa takut kepada azab Allah (dari kajian ini) dengan rasa harap dan cinta kepada-Nya.                                                                              | **Prinsip Dasar Ahlus Sunnah:** Tiga rukun ibadah adalah Cinta, Harap, dan Takut.                                                                                                                                                                                 |
  
  
- `button-publish`
