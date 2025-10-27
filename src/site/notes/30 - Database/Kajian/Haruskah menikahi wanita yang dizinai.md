@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-10-26</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=fyCyhf5t4Zk" target="_blank">https://www.youtube.com/watch?v=fyCyhf5t4Zk</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-10-27</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=fyCyhf5t4Zk" target="_blank">https://www.youtube.com/watch?v=fyCyhf5t4Zk</a></span></li></ul></div>
 
 # Catatan Kajian
 1. Kajian ini merupakan sesi tanya jawab yang membahas beberapa isu penting, terutama tentang kaitan antara _taufiq_ (pertolongan Allah) dan ilmu yang bermanfaat, serta panduan syar'i tentang utang dan perzinahan.
