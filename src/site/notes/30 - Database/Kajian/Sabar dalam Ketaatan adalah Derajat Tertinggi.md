@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-10-28</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://gemini.google.com/app/b09b9a01cc05068c" target="_blank">https://gemini.google.com/app/b09b9a01cc05068c</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-10-30</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://gemini.google.com/app/b09b9a01cc05068c" target="_blank">https://gemini.google.com/app/b09b9a01cc05068c</a></span></li></ul></div>
 
 # Catatan Kajian
 Kajian ini membahas tentang adab menuntut ilmu dan hakikat sabar, khususnya sabar dalam menjalankan ketaatan, yang merupakan derajat sabar tertinggi.

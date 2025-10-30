@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-29</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/0Ceuhy36EMM?si=BFtIdRPK59Ubhgmr" target="_blank">https://www.youtube.com/live/0Ceuhy36EMM?si=BFtIdRPK59Ubhgmr</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-30</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/0Ceuhy36EMM?si=BFtIdRPK59Ubhgmr" target="_blank">https://www.youtube.com/live/0Ceuhy36EMM?si=BFtIdRPK59Ubhgmr</a></span></li></ul></div>
 
 # Catatan 
 
@@ -26,7 +26,7 @@ Artinya: *"Maka apabila datang suara yang memekakkan (tiupan sangkakala yang ked
 </div></div>
 
 3. Tafsir Al-Qurtubi; dari keterhubungan ayat sebelumnya yg menjelaskan kesenangan sebagian melampaui batas yaitu makan-makan **bertujuan** agar kita selalu bersiap dan berbekal untuk hari **kiamat**
-4. **Aplikasi**; senantiasa menghadirkan rasa takut dalam rasa nikmat (walaupun halal) agar kita tetap terkontrol; tidak terkontrol dan tidak melampaui batas 
+4. **Aplikasi**; senantiasa menghadirkan rasa takut dalam rasa nikmat (walaupun halal) agar kita tetap terkontrol; tidak berlebihan dan tidak melampaui batas 
 5. Sebagaimana makan nasi yg terlalu banyak atau tidur terlalu banyak pun akan berdampak buruk. 
 6. **Implikasi** takut 
 	1. Untuk senantiasa bersyukur tiap nikmat
@@ -47,4 +47,3 @@ Artinya: *"Mereka (para jin itu) bekerja untuk Sulaiman sesuai dengan apa yang d
 </div></div>
 
  
- `button-publish`
