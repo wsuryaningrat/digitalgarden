@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-10-30</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=p97caCdIQZc" target="_blank">https://www.youtube.com/watch?v=p97caCdIQZc</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-01</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=p97caCdIQZc" target="_blank">https://www.youtube.com/watch?v=p97caCdIQZc</a></span></li></ul></div>
 
 # Catatan Kajian
 - Melanjutkan kajian [[30 - Database/Kajian/Rasa takut mengontrol kita\|Rasa takut mengontrol kita]] 
@@ -17,6 +17,9 @@
 2. Padukan takut dengan rasa harap dan cinta [[30 - Database/Kajian/Tiga rukun ibadah\|Tiga rukun ibadah]]
 3. 
 ## Syarat kebahagiaan itu takut
+1. Ini sangat mindblowing. Rasa takut kepada ***Allah ﷻ*** itu mendekatkan diri kita kepada ***Allah ﷻ*** memberikan ketenangan dan kebahagiaan
+2. Syarat ini juga harus disertai rasa harap dan cinta. 
+3. Batasan takut dijelaskan Syeikhul Islam adalah takut dari sesuatu yang membuat kita berbuat maksiat.
 
 
 ## Saat kenikmatan duniawi tidak bisa didengar
@@ -113,4 +116,3 @@ Artinya: *"kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"*
 
 
  
- `button-publish`
