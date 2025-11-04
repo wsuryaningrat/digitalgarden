@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-02</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=A89jKzD8_00" target="_blank">https://www.youtube.com/watch?v=A89jKzD8_00</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-04</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=A89jKzD8_00" target="_blank">https://www.youtube.com/watch?v=A89jKzD8_00</a></span></li></ul></div>
 
 # Catatan Kajian
 ## 1. Etika Pengasuhan (Anak adalah Amanah)
@@ -40,4 +40,3 @@ Artinya: *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dar
     
 - **Aplikasi:** Perbaiki karakter dan _track record_ Anda (jangan _medioker_). Jadilah orang yang berintegritas dan bertanggung jawab agar nasihat agama Anda diterima.
  
- `button-publish`

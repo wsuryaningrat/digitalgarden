@@ -83,4 +83,3 @@ Artinya: *"dan dari istri dan anak-anaknya."*
 2. Selagi ada waktu bertakwalah kepada ***Allah ﷻ*** .
 3. Ingatlah ***Allah ﷻ*** dalam waktu lapang, maka ***Allah ﷻ*** akan menolong kita saat kita sempit. [[30 - Database/Al-Hadits/Hadits Arbain 19 - Menjaga Hak Allah dan Memahami Takdir\|Hadits Arbain 19 - Menjaga Hak Allah dan Memahami Takdir]]
  
- `button-publish`
