@@ -39,8 +39,7 @@ Sabar adalah salah satu dari ahlaq terpuji yang disebutkan *Imam Ibnu Jamaah*.![
 
 
 
-# QS. As:Sajdah 32:24
-dg-home:
+# QS. As-Sajdah 32:24
 
 وَجَعَلْنَا مِنْهُمْ اَىِٕمَّةً يَّهْدُوْنَ بِاَمْرِنَا لَمَّا صَبَرُوْاۗ وَكَانُوْا بِاٰيٰتِنَا يُوْقِنُوْنَ
 

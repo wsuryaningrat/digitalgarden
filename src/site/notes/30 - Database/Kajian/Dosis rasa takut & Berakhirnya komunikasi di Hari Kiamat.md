@@ -15,7 +15,7 @@ Rasa takut kepada Allah (_Khauf_) harus proporsional dan tidak boleh berlebihan 
 
 - **Faedah & Aplikasi Harian**: Rasa takut sejati adalah yang produktif, yaitu yang berfungsi sebagai rem dan pencegah, bukan penghancur. Batasi rasa takut hanya sampai ia mampu menahan kita dari berbuat dosa dan maksiat. Selebihnya, harus diisi dengan rasa harap (_Raja'_) dan cinta kepada Allah.
     
-- **Referensi Ulama**: Syaikhul Islam rahimahullah (sebagaimana dikutip [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Ibnul Qayyim]]) mengatakan: **"Haddul khauf ma hajazaka an ma’shiyatillah."** (Batasan takut adalah yang mencegahmu dari maksiat kepada Allah). Adapun yang lebih dari itu, maka tidak dibutuhkan. [[12:23](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=743)] - [[13:25](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=805)].
+- **Referensi Ulama**: Syaikhul Islam rahimahullah (sebagaimana dikutip [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]]) mengatakan: **"Haddul khauf ma hajazaka an ma’shiyatillah."** (Batasan takut adalah yang mencegahmu dari maksiat kepada Allah). Adapun yang lebih dari itu, maka tidak dibutuhkan. [[12:23](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=743)] - [[13:25](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=805)].
 ## 2. Berakhirnya Komunikasi dan Manipulasi di Hari Kiamat
 Di dunia, seseorang bisa menggunakan retorika, kebohongan, atau memutarbalikkan fakta untuk menipu, menyerang lawan, atau _playing victim_. Di akhirat, semua kemampuan ini akan lenyap.
 
