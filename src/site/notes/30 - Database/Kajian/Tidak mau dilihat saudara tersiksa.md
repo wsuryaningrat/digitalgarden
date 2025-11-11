@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/30-database/kajian/saat-naluri-orang-tua-dan-saudara-mati/","tags":["kajian"]}
+{"dg-publish":true,"permalink":"/30-database/kajian/tidak-mau-dilihat-saudara-tersiksa/","tags":["kajian"]}
 ---
 
 
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-11</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lmvrqhKUkbo&amp;t=764s" target="_blank">https://www.youtube.com/watch?v=lmvrqhKUkbo&amp;t=764s</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Jangan Takut Masa Depan</span></li><li><span><strong>Tanggal:</strong> 2025-11-11</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=EItiQkBlT_8" target="_blank">https://www.youtube.com/watch?v=EItiQkBlT_8</a></span></li></ul></div>
 
 # Catatan Kajian
--  Alhamdulillah kembali dalam bahasan takut (kepada ***Allah ﷻ*** ) dalam kitab Riyadush Shalihin dari Imam An-Nawawi.
+-  [[30 - Database/Kajian/Saat naluri orang tua dan saudara mati\|Saat naluri orang tua dan saudara mati]]
+- Rasa takut adalah kunci kebahagiaan bersama harap dan cinta. Juga merupakan rukun ibadah.
+- [[50 - Public/Seeds/Imam An-Nawawi\|Imam An-Nawawi]]: menjelaskan telah menyampaikan dalil terkait rasa takut QS. Abasa 33-37. 
+	- [[30 - Database/Kajian/Saat manusia lari dari saudaranya\|Saat manusia lari dari saudaranya]]
+	- [[30 - Database/Kajian/Takut dituntut orang yang dicintai\|Takut dituntut orang yang dicintai]]
 - 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-abasa-80-33" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -24,7 +28,6 @@ Artinya: *"Maka apabila datang suara yang memekakkan (tiupan sangkakala yang ked
 
 </div></div>
 
-- 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-abasa-80-34" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -38,7 +41,6 @@ Artinya: *"pada hari itu manusia lari dari saudaranya,"*
 
 </div></div>
 
-- 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-abasa-80-35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -65,21 +67,13 @@ Artinya: *"dan dari istri dan anak-anaknya."*
 
 </div></div>
 
-- Renungi kondisi pada saat hari kiamat
-	- [[30 - Database/Kajian/Saat kenikmatan harta dan anak-anak tidak berguna\|Saat kenikmatan harta dan anak-anak tidak berguna]]
-	- [[30 - Database/Kajian/Saat manusia lari dari saudaranya\|Saat manusia lari dari saudaranya]]
 
-
-## Saat naluri orang tua dan saudara mati
-1. Di dunia naluri / instring orang tua sangat kuat untuk melindungi anaknya. 
-	1. Orang tua rela berkorban demi kesehatan anak-anaknya.
-	2. Jika saat kebakaran anak masih dalam gedung, orang tua / tim pemadam berani menerobos api.
-2. Tetapi hal di atas tidak berlaku di hari kiamat.
-3. Saat hari kiamat, semua lari dan pergi karena begitu panik dan takut.
-4. Tidak ada daya upaya selain pertolongan ***Allah ﷻ*** . [[30 - Database/Kajian/Tujuh golongan yang mendapat naungan Allah\|Tujuh golongan yang mendapat naungan Allah]]
-
-### Aplikasi
-1. Ingat dan renungi bahwa hari itu pasti datang. 
-2. Selagi ada waktu bertakwalah kepada ***Allah ﷻ*** .
-3. Ingatlah ***Allah ﷻ*** dalam waktu lapang, maka ***Allah ﷻ*** akan menolong kita saat kita sempit. [[30 - Database/Al-Hadits/Hadits Arbain 19 - Menjaga Hak Allah dan Memahami Takdir\|Hadits Arbain 19 - Menjaga Hak Allah dan Memahami Takdir]]
+## Manusia tidak mau saudaranya melihat dia sedang tersiksa
+1. [[50 - Public/Seeds/Imam Al-Qurthubi\|Imam Al-Qurthubi]]: menjelaskan tafsir dari QS. Abasa 33-37 bahwa manusia tidak ingin saudaranya melihat kondisi dirinya yang sangat tersiksa.
+2. Di dunia, manusia sebagai mahluk sosial biasa meminta bantuan saudaranya ketika kesulitan. Misalnya memanggil temannya yang punya jabatan, anaknya cerita kejadian di sekolahnya. Ketika seorang anak tiba-tiba diam mengunci kamarnya menjauh orang tua mengerti ada sesuatu yang besar. Ketika sakit kita ingin ada yang menjenguk. Ketika sakit perlu diisolasi, tidak mau dipisahkan dengan kerabat terdekatnya.
+3. Dan kondisi di atas tidak berlaku di hari **kiamat**, tidak ada penolong selain dari ***Allah ﷻ*** 
+4. **Aplikasi**: 
+	1. Mengingat kengerian hari kiamat dan sertai dengan rasa harap atas rahmat ***Allah ﷻ*** 
+	2. Persiapkan bekal untuk hari kiamat.
  
+ `button-publish`

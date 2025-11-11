@@ -15,7 +15,7 @@
 
 # Catatan Kajian
 1. Syarat kalimat tauhid sebagai kunci kebahagiaan dunia dan akhirat adalah
-	1. Ilmu,  [[2025-08-04 05.46 Syarat kalimat tauhid pertama\|2025-08-04 05.46 Syarat kalimat tauhid pertama]]
+	1. Ilmu,  [[30 - Database/Kajian/Syarat kalimat tauhid pertama\|Syarat kalimat tauhid pertama]]
 	2. yakin,  [[2025-08-05 05.49 Syarat kalimat tauhid kedua\|2025-08-05 05.49 Syarat kalimat tauhid kedua]]
 	3. ikhlas, [[2025-08-06 05.43 Syarat kalimat tauhid ketiga\|2025-08-06 05.43 Syarat kalimat tauhid ketiga]]
 	4. jujur, [[2025-08-07 05.52 Syarat kalimat tauhid keempat\|2025-08-07 05.52 Syarat kalimat tauhid keempat]]
