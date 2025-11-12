@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-11</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=QAsrVmjmHNQ" target="_blank">https://www.youtube.com/watch?v=QAsrVmjmHNQ</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=QAsrVmjmHNQ" target="_blank">https://www.youtube.com/watch?v=QAsrVmjmHNQ</a></span></li></ul></div>
 
 # Catatan Kajian
 Kajian ini merupakan kelanjutan dari tafsir Surah Ali Imran ayat 28 dan 30, yang berfokus pada pemahaman bahwa **peringatan Allah (_Wa yuḥaẓẓirukumullāhu nafsah_) adalah manifestasi dari kasih sayang-Nya (_Wallāhu ra'ūfun bil-'ibād_)**.

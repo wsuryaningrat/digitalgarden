@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-11-11</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t" target="_blank">https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2025-11-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t" target="_blank">https://www.youtube.com/watch?v=uO4D406QxM8&amp;list=PLJn69VMQAr8qrZvI2bYNfvMdkXVlkmB7t</a></span></li></ul></div>
 
 
 # I. Faedah Utama Mengenai Ilmu dan Kesabaran
