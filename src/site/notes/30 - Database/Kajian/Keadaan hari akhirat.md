@@ -6,17 +6,7 @@
 
 
 # Meta Data Kajian 
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token ':'
-    at DataviewInlineApi.eval (plugin:dataview:18885:21)
-    at evalInContext (plugin:dataview:18886:7)
-    at asyncEvalInContext (plugin:dataview:18896:32)
-    at DataviewJSRenderer.render (plugin:dataview:18922:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:689336)
-    at DataviewApi.executeJs (plugin:dataview:19465:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10763:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> kajian</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=kQPlmy3M2h4" target="_blank">https://www.youtube.com/watch?v=kQPlmy3M2h4</a></span></li></ul></div>
 
 # Catatan Kajian
 1. 
