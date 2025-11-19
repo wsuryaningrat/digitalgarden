@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-11-14</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=q8sNcht-l80" target="_blank">https://www.youtube.com/watch?v=q8sNcht-l80</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-11-19</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=q8sNcht-l80" target="_blank">https://www.youtube.com/watch?v=q8sNcht-l80</a></span></li></ul></div>
 
 # Catatan Kajian
 ### 1. Masalah: Keponakan Belum Menutup Aurat (Mulai Baligh)
@@ -35,4 +35,3 @@ Seorang anak laki-laki yang lahir di keluarga dengan ibu yang dominan merasa sul
 |**Doa dan Belajar dari Sumber Otentik**|**Doa Isti'anah:** Perbanyak doa kepada Allah untuk meminta sifat kepemimpinan (_"Mintalah kepadaku, aku akan kabulkan"_). [[24:12](http://www.youtube.com/watch?v=q8sNcht-l80&t=1452)]|**Mencari Role Model di Luar:** Contoh dalam keluarga sangat membantu, tetapi **bukan syarat mutlak** untuk menjadi pemimpin yang hebat. Carilah teladan di luar rumah, khususnya dalam Islam. [[24:50](http://www.youtube.com/watch?v=q8sNcht-l80&t=1490)]|
 |**Sumber Kepemimpinan Terbaik:**|**Sirah Nabi Muhammad ﷺ:** Beliau adalah pemimpin paling hebat di dunia. [[27:13](http://www.youtube.com/watch?v=q8sNcht-l80&t=1633)] **Biografi Khulafaur Rasyidin:** Pelajari sifat kepemimpinan dari Abu Bakar, Umar bin Khattab, Utsman bin Affan, dan Ali bin Abi Thalib. [[27:49](http://www.youtube.com/watch?v=q8sNcht-l80&t=1669)]|**Solusi Praktis:** Tidak ada alasan untuk tidak belajar _leadership_ karena kekurangan contoh di rumah, sebab kita tidak kekurangan contoh dari para pemimpin dunia yang luar biasa dalam sejarah Islam. Pelajari, renungkan, dan praktikkan.|
  
- `button-publish`

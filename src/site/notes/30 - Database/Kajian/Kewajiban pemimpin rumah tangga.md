@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-11-16</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=rKY4rqdcwTw" target="_blank">https://www.youtube.com/watch?v=rKY4rqdcwTw</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-11-19</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=rKY4rqdcwTw" target="_blank">https://www.youtube.com/watch?v=rKY4rqdcwTw</a></span></li></ul></div>
 
 # Catatan Kajian
 ## Kewajiban pemimpin rumah tangga
@@ -45,4 +45,3 @@ Artinya: *"Dan (ingatlah) ketika Tuhanmu memaklumkan, “Sesungguhnya jika kamu 
 </div></div>
 
  
- `button-publish`

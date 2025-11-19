@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-17</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/2ayY5yS-tTM?si=u9unZgSq1E8K89j6" target="_blank">https://www.youtube.com/live/2ayY5yS-tTM?si=u9unZgSq1E8K89j6</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2025-11-19</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/live/2ayY5yS-tTM?si=u9unZgSq1E8K89j6" target="_blank">https://www.youtube.com/live/2ayY5yS-tTM?si=u9unZgSq1E8K89j6</a></span></li></ul></div>
 
 # Catatan Kajian
 ## Rangkuman Kajian: Kontras Kasih Sayang Dunia dan Akhirat
@@ -24,4 +24,15 @@ Kajian ini melanjutkan pembahasan tentang Surah Abasa ayat 33-37 dan mendalami k
 | **4. Bekal untuk Hari Kiamat**         | Kesadaran akan kengerian Hari Kiamat harus membuat kita tidak terlenakan oleh kehidupan dunia. [[23:34](http://www.youtube.com/watch?v=2ayY5yS-tTM&t=1414)]                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Ibrah:** _"Dzalikal yaumul haqq"_ (Hari itu pasti terjadi). [[23:13](http://www.youtube.com/watch?v=2ayY5yS-tTM&t=1393)] | **Prioritas:** Jaga iman, jaga tauhid, dan jaga diri dari kesyirikan serta dosa-dosa lain. [[23:43](http://www.youtube.com/watch?v=2ayY5yS-tTM&t=1423)] Fokus pada bekal akhirat.                                                                                                                                                                                                                                                                                         |
 
  
- `button-publish`
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-hud-11-42" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Hud 11:42
+وَهِيَ تَجْرِيْ بِهِمْ فِيْ مَوْجٍ كَالْجِبَالِۗ وَنَادٰى نُوْحُ ِۨابْنَهٗ وَكَانَ فِيْ مَعْزِلٍ يّٰبُنَيَّ ارْكَبْ مَّعَنَا وَلَا تَكُنْ مَّعَ الْكٰفِرِيْنَ
+
+Artinya: *"Dan kapal itu berlayar membawa mereka ke dalam gelombang laksana gunung-gunung. Dan Nuh memanggil anaknya, ketika dia (anak itu) berada di tempat yang jauh terpencil, “Wahai anakku! Naiklah (ke kapal) bersama kami dan janganlah engkau bersama orang-orang kafir.”"*
+
+
+
+</div></div>
