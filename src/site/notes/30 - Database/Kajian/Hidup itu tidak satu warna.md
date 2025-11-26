@@ -16,7 +16,20 @@
 # Catatan Kajian
 ## 1. Muqadimah
 1. Harus istiqamah setelah Ramadhan
-	1. ![QS. An-Nahl (16)92 Jangan mengurai tenun kembali-Jangan hancurkan pola Ramadhan.png](/img/user/40%20-%20Obsidian/Assets/QS.%20An-Nahl%20(16)92%20Jangan%20mengurai%20tenun%20kembali-Jangan%20hancurkan%20pola%20Ramadhan.png)
+	1. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-an-nahl-16-92" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. An:Nahl 16:92
+وَلَا تَكُوْنُوْا كَالَّتِيْ نَقَضَتْ غَزْلَهَا مِنْۢ بَعْدِ قُوَّةٍ اَنْكَاثًاۗ تَتَّخِذُوْنَ اَيْمَانَكُمْ دَخَلًا ۢ بَيْنَكُمْ اَنْ تَكُوْنَ اُمَّةٌ هِيَ اَرْبٰى مِنْ اُمَّةٍ ۗاِنَّمَا يَبْلُوْكُمُ اللّٰهُ بِهٖۗ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ الْقِيٰمَةِ مَا كُنْتُمْ فِيْهِ تَخْتَلِفُوْنَ 
+
+Artinya: *"Dan janganlah kamu seperti seorang perempuan yang menguraikan benangnya yang sudah dipintal dengan kuat, menjadi cerai berai kembali. Kamu menjadikan sumpah (perjanjian)mu sebagai alat penipu di antaramu, disebabkan adanya satu golongan yang lebih banyak jumlahnya dari golongan yang lain. Allah hanya menguji kamu dengan hal itu, dan pasti pada hari Kiamat akan dijelaskan-Nya kepadamu apa yang dahulu kamu perselisihkan itu."*
+
+
+
+</div></div>
+
 ## 2. Sifat Terpuji Taqwa
 ![Tadzkiratus saami - Imam Ibnu Jamaah - Ahlak Terpuji.png](/img/user/40%20-%20Obsidian/Assets/Tadzkiratus%20saami%20-%20Imam%20Ibnu%20Jamaah%20-%20Ahlak%20Terpuji.png)
 1. Tujuan kita berpuasa dan juga menuntut ilmu adalah agar kita **bertaqwa**
@@ -38,7 +51,20 @@
 3. Imam Abu Hanifah memberi keterangan, setiap hari kita butuh untuk diingatkan agar bertaqwa
 4. Sementara orang sekarang ketika mendegnar "Ittaqillah" agaknya malah tersinggung, "salah gw apa ya"
 5. Ibnu Jauzi memberi keterangan, ketahuilah bahwa waktu dan kondisi itu tidak pernah konstan dalam kehidupan. Hidup tidak pernah dalam saut warna. ***Allah ﷻ*** berfirman dalam QS. Ali Imran 140, konteksnya adalah kekalahan muslim di perang Uhud. Bahwasanya hidup berputar, kadang menang dan kadang kalah. 
-	1. ![[QS. Ali 'Imran (3)-140\|QS. Ali 'Imran (3)-140]]
+	1. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-ali-imran-3-140" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Ali 'Imran 3:140
+اِنْ يَّمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِّثْلُهٗ ۗوَتِلْكَ الْاَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِۚ وَلِيَعْلَمَ اللّٰهُ الَّذِيْنَ اٰمَنُوْا وَيَتَّخِذَ مِنْكُمْ شُهَدَاۤءَ ۗوَاللّٰهُ لَا يُحِبُّ الظّٰلِمِيْنَۙ
+
+Artinya: *"Jika kamu (pada Perang Uhud) mendapat luka, maka mereka pun (pada Perang Badar) mendapat luka yang serupa. Dan masa (kejayaan dan kehancuran) itu, Kami pergilirkan di antara manusia (agar mereka mendapat pelajaran), dan agar Allah membedakan orang-orang yang beriman (dengan orang-orang kafir) dan agar sebagian kamu dijadikan-Nya (gugur sebagai) syuhada. Dan Allah tidak menyukai orang-orang zalim,"*
+
+
+
+</div></div>
+
 	2. Bayangkan jika kita punya bos yang mengamalkan ayat ini. Saat kita pakai mobil dan meleng saat di lampu merah dan menabrak. Lalu bos jawab. Tidak apa-apa, kemarin kamu fokus, sekarang kamu salah. Assalamualaikum, udah ya saya mau shalat Ashar. Masyaa Allah.
 6. Ibnu Jauzi menambahkan, taqwa itu kalau dia dalam kondisi orang kaya, taqwa membuat dia indah. Kalau dia miskin dia akan bersabar. Kalau dia sehat dia akan produktif. Kalau dia sedang diuji dia akan terlihat elegan. Sehingga waktu dan keadaan apapun tidak akan menjatuhkan dia. Taqwa itu penjaga kita untuk keselamatan dan yang memegang kita saat kita akan tergelincir.
 
@@ -46,7 +72,20 @@
 ## QnA
 ### 1. Pasangan tidak memberi ketenangan (sakinah)
 1. Sakinnah bukan diberikan pasangan, melainkan pemberian ***Allah ﷻ*** untuk orang yang bertaqwa
-2. ![[QS. Fussilat (41)-18\|QS. Fussilat (41)-18]]
+2. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-fussilat-41-18" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Fussilat 41:18
+وَنَجَّيْنَا الَّذِيْنَ اٰمَنُوْا وَكَانُوْا يَتَّقُوْنَ ࣖ 
+
+Artinya: *"Dan Kami selamatkan orang-orang yang beriman karena mereka adalah orang-orang yang bertakwa."*
+
+
+
+</div></div>
+
 3. Suami dan istri berperan *support* meningkatkan ketaqwaan.
 4. Tidak setiap waktu opsi cerai adalah pilihan. Tidak setiap perjalanan saat mengantuk kita temui rest area, sesekali kita harus terus jalan. Maka jalani semampu kita dan bertaqwa.
  

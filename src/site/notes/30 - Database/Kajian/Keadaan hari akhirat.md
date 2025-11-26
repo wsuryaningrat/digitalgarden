@@ -6,7 +6,12 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> kajian</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=kQPlmy3M2h4" target="_blank">https://www.youtube.com/watch?v=kQPlmy3M2h4</a></span></li></ul></div>
+
+- Pemateri: Ustadz Muhammad Nuzul Dzikri, Lc
+- Materi: Riyadush Shalihin
+- Sub Materi: BAB 50 | Al-Khauf (rasa takut kepada Allah)
+- Tanggal: 2025-10-14T00:00:00.000+07:00
+- Link Kajian: https://www.youtube.com/watch?v=kQPlmy3M2h4
 
 # Catatan Kajian
 1. 
