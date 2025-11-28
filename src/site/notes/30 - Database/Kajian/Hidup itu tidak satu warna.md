@@ -35,7 +35,7 @@ Artinya: *"Dan janganlah kamu seperti seorang perempuan yang menguraikan benangn
 1. Tujuan kita berpuasa dan juga menuntut ilmu adalah agar kita **bertaqwa**
 	1. QS. Al-Baqarah:183
 2. Kadang seseorang lupa akan tujuan utama ini, hanya sekedar tau dan tidak menjadi ketaqwaan di sehari-hari.
-3. **Definisi Taqwa**: [[30 - Database/Misc Notes/Rangkuman Tadzkiratus Sami Wal Mutakallim - Taqwa\|Rangkuman Tadzkiratus Sami Wal Mutakallim - Taqwa]]
+3. **Definisi Taqwa**: [[Rangkuman Tadzkiratus Sami Wal Mutakallim - Taqwa\|Rangkuman Tadzkiratus Sami Wal Mutakallim - Taqwa]]
 	1. Menjalankan perintah dan menjauhi larangan ***Allah ﷻ*** 
 	2. Ibnu Rajab memberi penjelasan (etimologi), dasar ketaqwaan adalah seorang Hamba menjadikan antara dia dan yang dia takutkan itu benteng yang menjaganya dari hal tersebut. 
 		1. Secara terminologi, benteng itu adalah menjalankan ketaatan dan menjauhi maksiat. Itulah yang menjaga kita daripada azab ***Allah ﷻ*** .
