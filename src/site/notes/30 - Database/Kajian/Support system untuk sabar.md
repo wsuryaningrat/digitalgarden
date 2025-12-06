@@ -70,7 +70,7 @@ Artinya: *"Jika kamu tidak menolongnya (Muhammad), sesungguhnya Allah telah meno
 
 
 ## Sabar mendakwahi orang tua
-1. Dalam menjalani perubahan besar, yang harus diperbaiki adalah hubungan dan sikap (diri) dalam
+1. Dalam menjalani perubahan besar ( #hijrah), yang harus diperbaiki adalah hubungan dan sikap (diri) dalam
 	1. hubungan dengan ***Allah ﷻ*** 
 	2. hubungan dengan ***Nabi ﷺ*** , dengan mengikuti sunnah beliau
 	3. hubungan dengan keluarga terdekat, khususnya orang tua
@@ -82,4 +82,4 @@ Artinya: *"Jika kamu tidak menolongnya (Muhammad), sesungguhnya Allah telah meno
 	3. Jago mijitin orang tua
 	4. Anterin berobat ke rumah sakit
 	5. Bawa hadiah misalnya martabak :) atau makanan kesukaan beliau
-5. Tunjukkan praktek daripada teori, minta maaf ke orang tua misalnya karena waktu kajian mengingatkan kesalahan, belikan hadiah, baru berikan saran atau sunnah kepada orang tua, dan jangan lupa doakan.
+5. Tunjukkan praktek daripada teori, minta maaf ke orang tua misalnya karena waktu kajian mengingatkan kesalahan, belikan hadiah, baru berikan saran atau sunnah kepada orang tua, dan jangan lupa doakan. 

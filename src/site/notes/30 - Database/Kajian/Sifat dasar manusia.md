@@ -45,7 +45,7 @@ Artinya: *"Dan Kami tidak mengutus rasul-rasul sebelummu (Muhammad), melainkan m
 2. ***Rasulullah ﷺ***  bersabda, jika manusia ikhlas dalam berinteraksi (karena ***Allah ﷻ*** ) ia akan mendapatkan manisnya Iman. Ia tidak akan kecewa, tidak akan emosi.
 	1. ![HR. Bukhari Muslim dari Anas 3 perkara kelezatan manisnya iman.png](/img/user/40%20-%20Obsidian/Assets/HR.%20Bukhari%20Muslim%20dari%20Anas%203%20perkara%20kelezatan%20manisnya%20iman.png)
 3. Baca kembali kajian 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/hikmah-mencintai-dengan-ikhlas-karena-allah-swt/#hikmah-mencintai-dengan-ikhlas-karena-allah" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/tiga-perkara-agar-mendapatkan-kelezatan-iman/#hikmah-mencintai-dengan-ikhlas-karena-allah" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
