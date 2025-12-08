@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Jangan Takut Masa Depan</span></li><li><span><strong>Tanggal:</strong> 2025-12-06</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=EItiQkBlT_8" target="_blank">https://www.youtube.com/watch?v=EItiQkBlT_8</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Jangan Takut Masa Depan</span></li><li><span><strong>Tanggal:</strong> 2025-12-08</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=EItiQkBlT_8" target="_blank">https://www.youtube.com/watch?v=EItiQkBlT_8</a></span></li></ul></div>
 
 # Catatan Kajian
 -  [[30 - Database/Kajian/Saat naluri orang tua dan saudara mati\|Saat naluri orang tua dan saudara mati]]

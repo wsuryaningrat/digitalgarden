@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-database/kajian/jaga-tauhid-orang-tua-bentuk-cinta-kita/","tags":["kajian"]}
+{"dg-publish":true,"permalink":"/30-database/kajian/jaga-tauhid-orang-tua-bentuk-cinta-kita/","tags":["kajian","mendakwahikeluarga"]}
 ---
 
 

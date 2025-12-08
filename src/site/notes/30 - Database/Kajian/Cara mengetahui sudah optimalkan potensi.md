@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-12-06</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=ayMcnUpNc9s" target="_blank">https://www.youtube.com/watch?v=ayMcnUpNc9s</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2025-12-08</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=ayMcnUpNc9s" target="_blank">https://www.youtube.com/watch?v=ayMcnUpNc9s</a></span></li></ul></div>
 
 # Catatan Kajian
 ## Bagaimana mengetahui kita sudah mengoptimalkan potensi dari ***Allah ﷻ*** 
