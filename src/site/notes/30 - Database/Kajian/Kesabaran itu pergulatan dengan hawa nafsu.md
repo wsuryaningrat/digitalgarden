@@ -18,7 +18,7 @@
 
 
 ## Hakikat memperjuangkan ilmu
--  Hakikat mempelajari ilmu ini adalah mendekatkan diri kita kepada ***Allah ﷻ*** 
+-  Dari [[50 - Public/Seeds/Imam Ibnu Hazm\|Imam Ibnu Hazm]], hakikat mempelajari ilmu ini adalah mendekatkan diri kita kepada ***Allah ﷻ*** 
 - **Evaluasi** apakah setelah mempelajari dan mengamalkan satu ilmu ***Allah ﷻ*** kemudiaan ridha.
 - **Aplikasi**: 
 	- mengusahakan menghadiri kajian offline yang banyak dinamika nya daripada online. 
@@ -215,3 +215,16 @@ Artinya: *"Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya
 
 </div></div>
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-ad-duha-93-11" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# QS. Ad:Duha 93:11
+وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ
+
+Artinya: *"Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur)."*
+
+
+
+</div></div>

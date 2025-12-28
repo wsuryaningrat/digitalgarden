@@ -49,8 +49,9 @@ Artinya: *"(Ingatlah) pada hari ketika kamu melihatnya (goncangan itu), semua pe
 - Pada hari kiamat saking mencekamnya sampai membuat **seorang** **ibu** lalai pada anaknya. (Perhatikan dalam ayat di atas ***Allah ﷻ*** menggunakan kata *tadzhalu*)
 	- [[30 - Database/Kajian/Saat naluri Ibu hilang\|Saat naluri Ibu hilang]]
 	- Ibu yang lemah lembut, sisi empatinya terlebih pada anaknya pada masa menyusui itu luar biasa. Melebihi perasaan nya dengan hal lain. 
-	- Dalam ayat di atas juga ***Allah ﷻ*** gunakan kata *murdhi'atin* (yang menyusui; kata benda subject). Dijelaskan ulama untuk menjelaskan sifat kedekatan pelakunya dipilih kata *murdiatin* bukan *murdiun* (walau sama-sama arti nya yang menyusui)
+	- ***Allah ﷻ*** menggunakan kata *tadzhal* yang artinya lalai atau sibuk dengan urusannya
+	- Dalam ayat di atas juga ***Allah ﷻ*** gunakan kata *murdhi'atin* (yang menyusui; kata benda subject). Dijelaskan ulama dipilih kata *murdiatin* bukan *murdiun* agar menunjukkan perempuan benar-benar sedang menyusui saat itu;
 	- Ibu pada saat di dunia itu adalah icon **kasih** **sayang**. Ibu yang bekerjapun banyak yang rela resign untuk menjaga kualitas asi nya biar ga stress.
 	- Namun ada satu waktu nanti di hari kiamat dia akan lupa.
 - Kembalikan fokus kita untuk mencari ridha ***Allah ﷻ*** daripada menghalakan yang membawa ke neraka
-	- Jangan pedulikan kata orang, nanti mereka pun ga akan peduli. Toh seorang Ibu pun akan tidak peduli pada anak yang disusuiny.
+	- Jangan pedulikan kata orang, nanti mereka pun ga akan peduli. Toh seorang Ibu pun akan tidak peduli pada anak yang disusuinya.
