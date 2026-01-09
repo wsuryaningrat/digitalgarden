@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2026-01-06</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=r9NiZR9_TN4" target="_blank">https://www.youtube.com/watch?v=r9NiZR9_TN4</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2026-01-09</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=r9NiZR9_TN4" target="_blank">https://www.youtube.com/watch?v=r9NiZR9_TN4</a></span></li></ul></div>
 
 # Catatan Kajian
 -  Dalam hal apapun perlu dilakukan adab terkhusus dalam berilmu harus bermain cantik.
