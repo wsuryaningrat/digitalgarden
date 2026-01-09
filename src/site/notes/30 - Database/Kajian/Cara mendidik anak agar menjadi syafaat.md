@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Yusni Hasnal Mubaroq</span></li><li><span><strong>Materi:</strong> Cara mendidik anak</span></li><li><span><strong>Sub Materi:</strong> Menjadikan anak syafaat di akhirat</span></li><li><span><strong>Tanggal:</strong> 2026-01-09</span></li><li><span><strong>Link Kajian:</strong>  </span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Yusni Hasnal Mubaroq</span></li><li><span><strong>Materi:</strong> Cara mendidik anak</span></li><li><span><strong>Sub Materi:</strong> Menjadikan anak syafaat di akhirat</span></li><li><span><strong>Tanggal:</strong> 2026-01-10</span></li><li><span><strong>Link Kajian:</strong>  </span></li></ul></div>
 
 # Catatan Kajian
 ## Muqodimah Kajian

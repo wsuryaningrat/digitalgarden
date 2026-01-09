@@ -31,7 +31,7 @@
 	1. Manusia cenderung lalai, bergantung, tertipu, tenggelam dalam euforia, posesif, kebablasan dalam mengungkapkan.
 	2. Agar tidak terlalu asyik dalam meraih dan mendapatkannya, serta berlebihan dalam menikmatinya.
 	3. Agar tidak lupa ada hak ***Allah ﷻ*** 
-3. [[30 - Database/Kajian/Banyak nikmat = banyak bersabar\|Banyak nikmat = banyak bersabar]]
+3. [[30 - Database/Kajian/Banyak nikmat, banyak bersabar\|Banyak nikmat, banyak bersabar]]
 ## Alasan #1 kondisi pertama butuh lebih sabar
 1. Manusia cenderung lalai, bergantung, tertipu, **tenggelam dalam euforia**, posesif, kebablasan dalam mengungkapkan.
 2. Contoh nya dalam sepak bola orang yang selebrasi berlebihan dalam euforia goal mendapatkan kartu kuning.

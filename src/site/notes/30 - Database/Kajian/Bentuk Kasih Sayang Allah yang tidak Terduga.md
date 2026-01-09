@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-01-09</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HmK2kPXLVMk" target="_blank">https://www.youtube.com/watch?v=HmK2kPXLVMk</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-01-10</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=HmK2kPXLVMk" target="_blank">https://www.youtube.com/watch?v=HmK2kPXLVMk</a></span></li></ul></div>
 
 # Catatan Kajian
 Kajian ini adalah lanjutan tafsir Surah Ali Imran ayat 28 dan 30, [[30 - Database/Kajian/Saat Allah SWT Memperingatkan Kita Tentang Diri-Nya\|Saat Allah SWT Memperingatkan Kita Tentang Diri-Nya]], dengan fokus pada frasa **"Dan Allah memperingatkan kamu terhadap diri-Nya"** (_Wa yuḥaẓẓirukumullāhu nafsah_) dan penutupnya **"Dan Allah Maha Penyayang terhadap hamba-hamba-Nya"** (_Wallāhu ra'ūfun bil-'ibād_).
