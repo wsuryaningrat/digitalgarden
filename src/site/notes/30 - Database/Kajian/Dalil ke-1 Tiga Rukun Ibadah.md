@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-01-10</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=JqljI6zh8yk" target="_blank">https://www.youtube.com/watch?v=JqljI6zh8yk</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-02-16</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=JqljI6zh8yk" target="_blank">https://www.youtube.com/watch?v=JqljI6zh8yk</a></span></li></ul></div>
 
 # Catatan Kajian
 ## Dalil pertama

@@ -27,7 +27,7 @@ Sabar adalah salah satu dari ahlaq terpuji yang disebutkan *Imam Ibnu Jamaah*.![
 		2. Tasyahuq: kemarahan, tidak rela, atau tidak terima
 		3. Tasyawa: komplen, ngomel
 		4. Taswisy: kekacauan, kebingungan
-2. *Ibnul Qayyim* memberi juga keterangan, sabar itu bersikap ketika menghadapi bala, ujian, atau musibah dengan **adab yang baik**.
+2. *Ibnul Qayyim*  juga memberi keterangan, sabar itu bersikap ketika menghadapi bala, ujian, atau musibah dengan **adab yang baik**.
 3. *Amr bin Utsman* memberi keterangan, sabar itu kokoh bersama ***Allah ﷻ*** dan menghadapi ujian ***Allah ﷻ*** dengan sikap **kelapangan** dan **ketenangan**.
 4. Sabar bukan berarti diam, pasif, ga ngapa-ngapain, dan ga hanya terbatas ucapan. Melainkan kita harus tahan diri, kerja keras untuk, dan apapun benturan sekeras apapun harus bisa tahan. Untuk bisa itu harus mengumpulkan energi, menghimpun semua kekuatan dalam diri, minta pertolongan kepada ***Allah ﷻ*** . Jika bisa melakukan itu maka kita akan **mulia**. 
 5. Sabar ini ga kita pendam melainkan kita salurkan dalam keyakinan bahwa kita akan mendapatkan pahala dan keutamaan yang dijanjikan ***Allah ﷻ*** dan ***Rasulallah ﷺ***  .
