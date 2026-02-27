@@ -15,9 +15,9 @@
 
 
 # Catatan Kajian
--  Hadits ke 398 dalam Riyadush Shalihin
+##  Hadits ke 398 dalam Riyadush Shalihin
 - ![Screenshot 2026-02-27 at 05.35.44.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202026-02-27%20at%2005.35.44.png)
- - Dari an-Nu'man radhiyallahuanhu, neraka paling ringan siksa nya diletakan bara api di dua kaki dan otak mendidih
+ - Dari an-Nu'man radhiyallahuanhu, neraka paling ringan siksa nya diletakan bara api di telapak dua kaki dan otak (bagian atas tubuh) mendidih.
 ## Aplikasi keseharian
-1. Tidak meremehkan adzab yang pedih, yaitu neraka, apalagi sampai membuat jokes dan arogan. 
-2. Jangan menyebutkan tidak apa transit dulu ke neraka. Sesungguhnya adzab neraka sangat pedih dan bukan merupakan tempat transit
+1. Tidak meremehkan adzab yang pedih, yaitu neraka, apalagi sampai membuat jokes dan arogan mengatakan "udah lo ikut aja, nanti dosa nya gw tanggung". 
+2. Jangan menyebutkan tidak apa transit dulu ke neraka. Sesungguhnya adzab neraka sangat pedih dan bukan merupakan tempat transit.
