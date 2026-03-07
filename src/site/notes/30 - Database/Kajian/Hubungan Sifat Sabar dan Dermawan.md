@@ -55,15 +55,6 @@ Artinya: *"Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anak
 
 
 
-## Empat pagar sabar di tengah kenikmatan
-1. Karena dalam hidup hanya ada dua kemungkinan yang dihadapi;
-	1. Sesuai dengan keinginan
-	2. Tidak sesuai dengan keinginan
-2. Poin 1 lebih diperlukan untuk **sabar**, karena
-	1. Agar kita tidak **ketergantungan** (hati), **terkecoh**, tidak **tenggelam** dalam *euforia*
-	2. Agar kita tidak **berlebihan** disaat kita mampu untuk itu. Karena sesuatu yang baik jika berlebihan akan menjadi buruk / penyakit. Misal dalam makan / *scrolling* dan *screentime*. Hal yang bermanfaat akan bermanfaat jika sesuai dosis. 
-	3. Agar kita tidak **lupa** di setiap nikmat ada **hak** ***Allah ﷻ*** . Manusia sering lupa dalam harta nya ada zakat, 
-	4. Agar kita tidak **digunakan** kedalam hal yang **haram**. Jangan lepaskan nafsu kita untuk melakukan semua yang dia inginkan. Tidak ada yang bisa lari kecuali orang *siddiqin* (yang membenarkan firman ***Allah ﷻ*** , level di bawah para Nabi). Manusia bisa sabar (baik itu muslim/kafir) ketika terkena musibah tetapi hanya orang *siddiqin* yang mampu bersabar dalam kenikmatan.
 
 
 </div></div>
@@ -73,9 +64,6 @@ Artinya: *"Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anak
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/empat-pagar-sabar-di-tengah-kenikmatan/#keterangan-para-sahabat" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-
-## Keterangan para sahabat
-1. *Abdurrahman bin Auf* (satu dari 10 sahabat yang dijamin masuk surga) memberi keterangan "Kami diuji dengan musibah dan hal yang tidak nyaman mak akami berhasil menanggapinya dengan sabar, dan kami diuji dengan kenyamanan dan kesenangan dan kami tidak bersabar". Merupakan bentuk ke-tawadhu'an beliau yang menunjukkan sabar dalam kenikmatan sangat sulit.
 
 
 
