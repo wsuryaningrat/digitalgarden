@@ -6,100 +6,62 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-03-08</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lqE7TIaQrec&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=4" target="_blank">https://www.youtube.com/watch?v=lqE7TIaQrec&amp;list=PLJn69VMQAr8r2blxCNzdLvC4-uUq1dOZz&amp;index=4</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> Sesi Tanya Jawab</span></li><li><span><strong>Tanggal:</strong> 2026-04-08</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=IQ_fn1L34tg" target="_blank">https://www.youtube.com/watch?v=IQ_fn1L34tg</a></span></li></ul></div>
 
 # Catatan Kajian
-Kajian ini adalah tafsir ringkas Surah Hud ayat 105-107, yang membahas tentang kondisi manusia di hari kiamat dan kekekalan di neraka bagi ahli kesengsaraan (_asy-syaqi_), serta bahaya kesyirikan.
+## 1. Menyeimbangkan Takut, Harap, dan Cinta kepada Allah
 
-Berikut adalah rangkuman faedah utama yang dapat diaplikasikan dalam kehidupan sehari-hari:
+Bagi seorang Muslim yang merasa lalai karena terlalu mengandalkan kemurahan Allah yang Maha Pengampun (_Ghafur_), penting untuk menyeimbangkan kembali hati.
 
-### 1. Hakikat Kekekalan Neraka
-
-Ancaman neraka itu kekal bagi orang-orang sengsara yang kafir dan musyrik. Pemahaman ini harus mendorong kita untuk terus menjaga keimanan dan menjauhi dosa besar, khususnya syirik.
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-hud-11-107" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# QS. Hud 11:107
-خٰلِدِيْنَ فِيْهَا مَا دَامَتِ السَّمٰوٰتُ وَالْاَرْضُ اِلَّا مَا شَاۤءَ رَبُّكَۗ اِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيْدُ
-
-Artinya: *"mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain). Sungguh, Tuhanmu Maha Pelaksana terhadap apa yang Dia kehendaki."*
-
-
-
-</div></div>
-
-- **Faedah Bahasa:** Ungkapan "selama ada langit dan bumi" adalah gaya bahasa Arab (_idiom_) yang berarti **selama-lamanya** (_kekal_).
-        
-- **Faedah Akhirat:** Langit dan bumi yang dimaksud adalah langit dan bumi di akhirat yang bersifat kekal, berbeda dengan dunia. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-ibrahim-14-48" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# QS. Ibrahim 14:48
-يَوْمَ تُبَدَّلُ الْاَرْضُ غَيْرَ الْاَرْضِ وَالسَّمٰوٰتُ وَبَرَزُوْا لِلّٰهِ الْوَاحِدِ الْقَهَّارِ 
-
-Artinya: *"(Yaitu) pada hari (ketika) bumi diganti dengan bumi yang lain dan (demikian pula) langit, dan mereka (manusia) berkumpul (di Padang Mahsyar) menghadap Allah Yang Maha Esa, Mahaperkasa. "*
-
-
-
-</div></div>
-
-        
-- **Pengecualian (_Illā mā shā'a rabbuka_):** Pengecualian ini ditujukan kepada **pelaku maksiat dari kalangan ahli tauhid** (_al-usatī min ahli tauhid_). Mereka akan diazab sesuai kehendak Allah, namun **tidak akan kekal** di neraka dan pada akhirnya akan dikeluarkan menuju surga.
-        
-
-### 2. Bahaya Besar Kesyirikan
-
-Syirik adalah dosa terbesar yang dapat menghapus seluruh amal ibadah, sebesar apapun amalan yang pernah dilakukan.
-
-- **Aplikasi Harian:** Jauhi segala bentuk syirik, baik yang tersembunyi (_syirik asghar_) maupun yang terang-terangan (_syirik akbar_). Jaga tauhid agar amal saleh kita tidak sia-sia.
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-az-zumar-39-65" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# QS. Az:Zumar 39:65
-وَلَقَدْ اُوْحِيَ اِلَيْكَ وَاِلَى الَّذِيْنَ مِنْ قَبْلِكَۚ  لَىِٕنْ اَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُوْنَنَّ مِنَ الْخٰسِرِيْنَ
-
-Artinya: *"Dan sungguh, telah diwahyukan kepadamu dan kepada (nabi-nabi) yang sebelummu, “Sungguh, jika engkau mempersekutukan (Allah), niscaya akan hapuslah amalmu dan tentulah engkau termasuk orang yang rugi."*
-
-
-
-</div></div>
-
+- **Aplikasi Harian:**
     
+    - **Pelihara Rasa Takut:** Batasan rasa takut yang wajib dimiliki seorang Muslim adalah rasa takut yang **mampu mencegah dan menghentikan kita dari maksiat atau dosa**. Rasa takut yang berlebihan hingga menimbulkan keputusasaan (seperti merasa pasti masuk neraka) adalah rasa takut yang tidak tepat dan tidak dibutuhkan.
+        
+    - **Jangan Merasa Aman:** Seorang mukmin tidak boleh merasa aman 100% dari makar (murka) Allah, sebab merasa aman dari makar Allah adalah ciri orang-orang yang merugi. Selama kita tidak bisa memastikan tobat kita diterima, di situlah porsi rasa takut harus hadir.
+        
+    - **Cinta adalah Inti:** Setelah rasa takut berada pada batas yang mencegah dari dosa, maka fokus harus dialihkan pada porsi **rasa harap dan cinta** kepada Allah, yang merupakan inti dari ibadah.
+        
+- **Referensi Al-Qur'an dan Ulama:**
+    
+    
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-a-raf-7-99" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-### 3. Kengerian Siksa Neraka
-
-Siksa neraka bukan hanya penderitaan fisik, tetapi juga psikis dan pernafasan yang terus-menerus.
-
-- **Aplikasi Harian:** Jadikan gambaran siksa ini sebagai dorongan untuk menjauhi maksiat, yang seringkali terasa berat untuk ditinggalkan. Beratnya meninggalkan maksiat tidak sebanding dengan siksaan kekal di neraka.
-- 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-hud-11-106" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+# QS. Al:A'raf 7:99
+اَفَاَمِنُوْا مَكْرَ اللّٰهِۚ فَلَا يَأْمَنُ مَكْرَ اللّٰهِ اِلَّا الْقَوْمُ الْخٰسِرُوْنَ ࣖ 
 
-# QS. Hud 11:106
-فَاَمَّا الَّذِيْنَ شَقُوْا فَفِى النَّارِ لَهُمْ فِيْهَا زَفِيْرٌ وَّشَهِيْقٌۙ  
-
-Artinya: *"Maka adapun orang-orang yang sengsara, maka (tempatnya) di dalam neraka, di sana mereka mengeluarkan dan menarik nafas dengan merintih,"*
+Artinya: *"Atau apakah mereka merasa aman dari siksaan Allah (yang tidak terduga-duga)? Tidak ada yang merasa aman dari siksaan Allah selain orang-orang yang rugi."*
 
 
 
 </div></div>
 
         
+    - **Syekhul Islam:** Menjelaskan bahwa batasan rasa takut adalah rasa yang mencegah kita dari maksiat; selebihnya tidak dibutuhkan.
+        
 
-### 4. Allah Berbuat Sesuai Kehendak-Nya
+## 2. Menyikapi Lingkungan Pekerjaan yang Bermaksiat
 
-Allah Maha Berkehendak dan tidak ada yang dapat menghalangi keputusan-Nya.
+Ketika mendapatkan pekerjaan yang halal namun lingkungan kerja dipenuhi oleh maksiat (misalnya teman kantor meninggalkan salat), penting untuk mengambil keputusan yang bijak.
 
-- **Aplikasi Harian:** Kita wajib beriman dan menerima setiap keputusan Allah, baik takdir baik maupun buruk, karena Dia-lah yang berbuat sesuai yang Dia kehendaki.
+- **Aplikasi Harian:**
     
-- **Referensi Al-Qur'an (Surah Hud: 107):**
+    - **Perhatikan Substansi:** Jika substansi pekerjaan yang dilakukan **haram** (menyebabkan uang yang didapatkan menjadi haram), maka wajib hukumnya untuk mencari pekerjaan lain. Ada korelasi kuat antara harta yang halal dengan amal saleh yang berkualitas.
+        
+    - **Peluang Berdakwah:** Jika substansi pekerjaan **halal**, tetapi lingkungan kerja yang bermasalah (misalnya teman tidak salat), maka jangan langsung berpikir untuk _resign_. Anggaplah ini sebagai **kesempatan emas untuk berdakwah** (_Fardu Kifayah_) dan menjadi teladan.
+        
+    - **Menjadi Pemberi Pengaruh:** Berusahalah untuk berprestasi dan berada di posisi yang strategis. Orang cenderung lebih mendengar nasihat dari orang yang berada di atasnya (atasan) daripada yang setara atau di bawahnya. Ini adalah cara positif untuk memengaruhi lingkungan.
+        
+    - **Keadilan Allah (_Ahkamul Hakimin_):** Standar amal yang dituntut Allah disesuaikan dengan kondisi zaman dan lingkungan. Jika lingkungan kita tidak kondusif, standar amal Allah yang dituntut tidak akan sama tingginya dengan zaman para sahabat Nabi. Hal ini seharusnya mendorong kita untuk terus berjuang, bukan berputus asa atau mencela kondisi manusia.
+        
+- **Referensi Hadis dan Al-Qur'an:**
     
-    > **"...Sesungguhnya Rabbmu melakukan apa yang ia inginkan."**
- 
+    - **Perintah kepada Rasul:** **"Wahai para Rasul, makanlah dari makanan yang baik-baik (halal) dan kerjakanlah amal saleh. Sesungguhnya Aku Maha Mengetahui apa yang kamu kerjakan."** (QS Al-Mukminun: 51). Ayat ini menggabungkan tuntutan harta halal dengan amal yang baik.
+        
+    - **Hadis tentang Akhir Zaman:** Rasulullah ﷺ menyebutkan bahwa akan datang satu masa yang banyak penceramah tanpa ilmu dan ulama sedikit, di mana **"Barangsiapa yang berpegang teguh dengan sepersepuluh saja dari agama, maka dia akan selamat."** Ini menunjukkan bahwa dalam kondisi yang tidak kondusif, Allah menurunkan standar tuntutan-Nya agar hamba tetap memiliki peluang keselamatan.
+        
+    - **Larangan Mencela:** Nabi ﷺ bersabda, **"Jika ada orang yang mengatakan: 'Manusia telah rusak sekarang,' maka dialah yang paling rusak di antara mereka."** (HR Muslim). Hal ini mengingatkan agar kita tidak meremehkan atau menghakimi kondisi manusia.
+        
+
  
