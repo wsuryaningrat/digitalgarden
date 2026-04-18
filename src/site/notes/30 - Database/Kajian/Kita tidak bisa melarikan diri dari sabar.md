@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2026-04-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=r9NiZR9_TN4" target="_blank">https://www.youtube.com/watch?v=r9NiZR9_TN4</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Tadzkiratus Sami Wal Mutakallim</span></li><li><span><strong>Sub Materi:</strong> Sabar</span></li><li><span><strong>Tanggal:</strong> 2026-04-19</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=r9NiZR9_TN4" target="_blank">https://www.youtube.com/watch?v=r9NiZR9_TN4</a></span></li></ul></div>
 
 # Catatan Kajian
 -  Dalam hal apapun perlu dilakukan adab terkhusus dalam berilmu harus bermain cantik.
@@ -17,7 +17,7 @@
 - Salah satu karakter / adab dalam ilmu adalah **sabar**. Di mana sabar menurut keterangan para ulama adalah setengah dari agama.
 
 ## Sabarnya tercela vs terpuji
-1. Imam [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, sabar tidak hanya dimiliki orang beriman / mulia tetapi juga orang yang buruk.
+1. Imam [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, sabar tidak hanya dimiliki orang beriman / mulia tetapi juga orang yang buruk.
 2. Sabar dari Ibnul Qayyim ada dua; **terpuji** dan **tercela**
 3. **Persamaan** nya keduanya secara etimologi mengalami proses menahan, mengumpulkan, mengalami kesulitan. 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/hakikat-sabar-yang-tidak-diketahui-banyak-orang/#arti-sabar-secara-bahasa" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -37,7 +37,7 @@
 	2. Dari Zaid bin Tsabit _radhiyallahu ‘anhu_ beliau berkata: Kami mendengar Rasulullah _shallallahu ‘alaihi wa sallam_ bersabda,_“Barangsiapa yang (menjadikan) dunia tujuan utamanya maka Allah akan mencerai-beraikan urusannya dan menjadikan kemiskinan/tidak pernah merasa cukup (selalu ada) di hadapannya, padahal dia tidak akan mendapatkan (harta benda) duniawi melebihi dari apa yang Allah tetapkan baginya. Dan barangsiapa yang (menjadikan) akhirat niat (tujuan utama)nya maka Allah akan menghimpunkan urusannya, menjadikan kekayaan/selalu merasa cukup (ada) dalam hatinya, dan (harta benda) duniawi datang kepadanya dalam keadaan rendah (tidak bernilai di hadapannya)_“  [^1]
 4. **Perbedaan**;
 	1. Sabar tercela adalah mentaati hawa nafsu / syaitan, tetapi tidak sabar mentaati ***Allah ﷻ***
-	2. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan sabar ini adalah sabar paling buruk, di mana menghindari ***Allah ﷻ*** dengan sifat-Nya yang Pengasih dan Penyayang.
+	2. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan sabar ini adalah sabar paling buruk, di mana menghindari ***Allah ﷻ*** dengan sifat-Nya yang Pengasih dan Penyayang.
 5. **Aplikasi**:
 	1. Dunia adalah ujian kita yang pilih mau sabar terpuji atau tercela. Mau jadi hamba ***Allah ﷻ*** atau budak dunia?
 	2. Sadari sabar di jalan ***Allah ﷻ*** itu berat, tapi sabar di jalan maksiat juga tidak mudah (bahkan lebih parah)

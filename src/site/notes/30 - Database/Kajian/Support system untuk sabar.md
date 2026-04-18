@@ -15,7 +15,7 @@
 
 
 # Catatan Kajian
--  [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan *adab awal kebahagiaan dan keberuntungan*. Ini berlaku / sunnatullah untuk semua bidang.
+-  [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan *adab awal kebahagiaan dan keberuntungan*. Ini berlaku / sunnatullah untuk semua bidang.
 - Sabar adalah salah satu karakteristik adab menuntut ilmu.
 	- [[30 - Database/Kajian/Hakikat sabar yang tidak diketahui banyak orang\|Hakikat sabar yang tidak diketahui banyak orang]]
 	- [[30 - Database/Kajian/Kita tidak bisa melarikan diri dari sabar\|Kita tidak bisa melarikan diri dari sabar]]
@@ -23,7 +23,7 @@
 
 
 ## Support system untuk sabar
-- [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, tidaklah ***Allah ﷻ*** memerintahkan sesuatu melainkan ***Allah ﷻ*** buatkan kemudahan (support system) untuk kita bisa meraihnya, sebagaimana ***Allah ﷻ*** ciptakan suatu penyakit dan obatnya (masalahnya apakah manusia tau atau tidak).
+- [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, tidaklah ***Allah ﷻ*** memerintahkan sesuatu melainkan ***Allah ﷻ*** buatkan kemudahan (support system) untuk kita bisa meraihnya, sebagaimana ***Allah ﷻ*** ciptakan suatu penyakit dan obatnya (masalahnya apakah manusia tau atau tidak).
 - Jika ada perintah ***Allah ﷻ*** , maka pasti ada **pertolongan-Nya**.
 - **Contoh kisah**: 
 	- Kisah Siti Hajar yang ditinggalkan bersama anaknya Nabi Ismail oleh Ibrahim As, kalimat yang diucapkan Siti Hajar adalah
@@ -53,7 +53,7 @@ Artinya: *"Jika kamu tidak menolongnya (Muhammad), sesungguhnya Allah telah meno
 
 
 ## Dua unsur untuk bisa sabar
-1. Setelah [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan bahwa setiap perintah ***Allah ﷻ*** ada pertolongan-Nya.
+1. Setelah [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan bahwa setiap perintah ***Allah ﷻ*** ada pertolongan-Nya.
 2. Beliau melanjutkan untuk bisa sabar kita perlu menggabungkan 2 unsur
 	1. Ilmu
 	2. Amal
@@ -64,7 +64,7 @@ Artinya: *"Jika kamu tidak menolongnya (Muhammad), sesungguhnya Allah telah meno
 	2. begitupun orang yang belajar semua dalil tentang sabar tapi gapernah praktekin ketika dibutuhkan sabar
 # Sesi Tanya Jawab
 ## Anak putus pacar 
-1. Waspada isyq, dijelaskan [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] penyakit ini disebabkan kurangnya dzikir kepada ***Allah ﷻ*** 
+1. Waspada isyq, dijelaskan [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] penyakit ini disebabkan kurangnya dzikir kepada ***Allah ﷻ*** 
 	1. [[30 - Database/Kajian/Kenikmatan tertinggi\|Kenikmatan tertinggi]]
 2. Hati-hati membuat keputusan besar karena sedang dalam kondisi yang rentan
 

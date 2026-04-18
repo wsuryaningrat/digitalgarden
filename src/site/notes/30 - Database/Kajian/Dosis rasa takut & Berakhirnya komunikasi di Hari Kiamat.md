@@ -6,7 +6,7 @@
 
 
 # Meta Data Kajian 
-<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-04-12</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=K1-rVHxrQDU" target="_blank">https://www.youtube.com/watch?v=K1-rVHxrQDU</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><strong>Pemateri:</strong> Ustadz Muhammad Nuzul Dzikri, Lc</span></li><li><span><strong>Materi:</strong> Riyadush Shalihin</span></li><li><span><strong>Sub Materi:</strong> BAB 50 | Al-Khauf (rasa takut kepada Allah)</span></li><li><span><strong>Tanggal:</strong> 2026-04-19</span></li><li><span><strong>Link Kajian:</strong> <a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=K1-rVHxrQDU" target="_blank">https://www.youtube.com/watch?v=K1-rVHxrQDU</a></span></li></ul></div>
 
 # Catatan Kajian
 Kajian ini melanjutkan bahasan mengenai rasa takut kepada ***Allah ﷻ*** . [[30 - Database/Kajian/Keadaan hari akhirat\|Keadaan hari akhirat]] itu tidak seorangpun bisa berbicara kecuali dengan izin ***Allah ﷻ*** .
@@ -15,7 +15,7 @@ Rasa takut kepada Allah (_Khauf_) harus proporsional dan tidak boleh berlebihan 
 
 - **Faedah & Aplikasi Harian**: Rasa takut sejati adalah yang produktif, yaitu yang berfungsi sebagai rem dan pencegah, bukan penghancur. Batasi rasa takut hanya sampai ia mampu menahan kita dari berbuat dosa dan maksiat. Selebihnya, harus diisi dengan rasa harap (_Raja'_) dan cinta kepada Allah.
     
-- **Referensi Ulama**: Syaikhul Islam rahimahullah (sebagaimana dikutip [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]]) mengatakan: **"Haddul khauf ma hajazaka an ma’shiyatillah."** (Batasan takut adalah yang mencegahmu dari maksiat kepada Allah). Adapun yang lebih dari itu, maka tidak dibutuhkan. [[12:23](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=743)] - [[13:25](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=805)].
+- **Referensi Ulama**: Syaikhul Islam rahimahullah (sebagaimana dikutip [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]]) mengatakan: **"Haddul khauf ma hajazaka an ma’shiyatillah."** (Batasan takut adalah yang mencegahmu dari maksiat kepada Allah). Adapun yang lebih dari itu, maka tidak dibutuhkan. [[12:23](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=743)] - [[13:25](http://www.youtube.com/watch?v=K1-rVHxrQDU&t=805)].
 ## 2. Berakhirnya Komunikasi dan Manipulasi di Hari Kiamat
 Di dunia, seseorang bisa menggunakan retorika, kebohongan, atau memutarbalikkan fakta untuk menipu, menyerang lawan, atau _playing victim_. Di akhirat, semua kemampuan ini akan lenyap.
 

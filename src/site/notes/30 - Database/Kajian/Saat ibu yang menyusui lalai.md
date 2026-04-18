@@ -59,7 +59,7 @@ Artinya: *"”Ya Tuhan kami, Engkaulah yang mengumpulkan manusia pada hari yang 
 	3. Jodoh, dicari
 4. [[30 - Database/Misc Notes/Syekhul Islam - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Syeikhul Islam]] memberi keterangan, jika ***Allah ﷻ*** menginginkan kebaikan dari seorang hamba maka ***Allah ﷻ*** ilhamkan untuk berdoa. Lalu ***Allah ﷻ*** jadikan istianah nya dan doanya **sebab** kebaikan yang diberikan.
 5. [[30 - Database/Misc Notes/Syekhul Islam - Wikipedia bahasa Indonesia, ensiklopedia bebas\|Syeikhul Islam]] membawa keterangan *Umar bin Khattab,* "Aku tidak terlalu memikirkan bagaimana do'a aku dikabulkan. Yang aku pikirkan bagaimana cara aku bisa terus berdo'a. Karena jika aku berdoa'a pasti ijabah dan pengabulan menyertainya."
-6. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, barangsiapa yang diberi taufik untuk berdo'a maka ***Allah ﷻ*** ingin mewujudkan cita-citanya.
+6. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, barangsiapa yang diberi taufik untuk berdo'a maka ***Allah ﷻ*** ingin mewujudkan cita-citanya.
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-186" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 

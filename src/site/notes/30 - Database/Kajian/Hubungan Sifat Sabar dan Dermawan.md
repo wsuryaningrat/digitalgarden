@@ -33,7 +33,7 @@ Artinya: *"Allah hendak memberikan keringanan kepadamu, karena manusia diciptaka
 
 - ***Nabi ﷺ*** bersabda, “Barangsiapa yang memaksimalkan waktu yang masih tersisa, maka kesalahannya yang lalu pasti terampuni, dan barangsiapa yang melalaikan waktu yang tersisa, maka ia akan disiksa karena kesalahan yang lalu dan yang tersisa.”**  **(HR. Thabrani Fil Awsath dan dihasankan oleh Albani)
 
-[[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] membawakan firman ***Allah ﷻ*** dalam 
+[[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] membawakan firman ***Allah ﷻ*** dalam 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-munafiqun-63-9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -70,7 +70,7 @@ Artinya: *"Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anak
 </div></div>
 
 ## Poin ke-2 
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] meneruskan. Adapun yang kedua adalah hal yang menyelisihi hawa nafsu kita; yaitu
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] meneruskan. Adapun yang kedua adalah hal yang menyelisihi hawa nafsu kita; yaitu
 	1. Berkaitan dengan pilihan seorang hamba melakukan / tidak melakukan kemaksiatan / ketaatan
 	2. Awalnya tidak berkaitan dengan pilihan; misalnya ketika mendapat musibah
 	3. Awalnya merupakan pilihan tetapi berikutnya bukan lagi pilihan

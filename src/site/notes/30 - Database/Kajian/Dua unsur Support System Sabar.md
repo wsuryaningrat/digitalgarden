@@ -21,12 +21,12 @@
 	- Kita akan terlatih untuk disiplin mempersiapkan diri dan jadwalnya dari awal pagi, menghadapi macet dst.
 	- Menurut para ulama "Bergerak (movement) itu keberkahan"
 ## Dua unsur untuk sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan untuk bisa **sabar** diperlukan **ilmu** dan **amal**
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan untuk bisa **sabar** diperlukan **ilmu** dan **amal**
 2. Diharuskan untuk melengkapi satu sama lain [[30 - Database/Kajian/Support system untuk sabar\|Support system untuk sabar]]
 
 
 ## Unsur ilmu untuk sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan adapun sisi teori kita dapat mengetahui **manfaat**, **kenikmatan**, dan **kesempurnaan** dari amalan. 
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan adapun sisi teori kita dapat mengetahui **manfaat**, **kenikmatan**, dan **kesempurnaan** dari amalan. 
 	1. Misalnya terkait perjuangan kajian secara offline yang lebih besar. ***Nabi ﷺ*** bersabda, Barangsiapa yang menempuh jalan menuntut ilmu, maka ***Allah ﷻ*** mudahkan mudahkan jalannya menuju surga. Keutamaan lainnya malaikat memberikan **respect** dan ridho kepada kita
 	2. [[30 - Database/01 - Keutamaan Amalan/Keutamaan Bermajelis\|Keutamaan Bermajelis]]
 2. Ilmu **melindungi** kita **dari** **kesedihan**.
@@ -40,7 +40,7 @@
 	3. Sadari setiap yang ***Allah ﷻ*** haramkan itu karena berdampak buruk bagi kita [[30 - Database/Al-Quran/All Surah#araf157\|All Surah#araf157]]. Berbeda dengan manusia, misalnya suami yang melarang istri karena iseng 😂 bahkan walau itu positif. 
 
 ## Unsur setelah ilmu
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] setelah ilmu perlu ditambahkan
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] setelah ilmu perlu ditambahkan
 	1. *azima sodiqah*; tekad yang kuat
 	2. *imma 'aliya*; cita-cita yang tinggi
 	3.  *nahwah* / *futuwah*; memiliki kehormatan & jiwa ksatria

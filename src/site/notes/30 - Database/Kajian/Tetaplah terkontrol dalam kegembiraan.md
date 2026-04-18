@@ -19,7 +19,7 @@
 - Adab kepada ilmu adalah adab kepada ***Allah ﷻ*** yang Maha Berilmu dan Memberi Ilmu
 - Hanya bermodal kecerdasan tidak cukup, sebaliknya jika kita cukup saja dalam kecerdasan tetapi beradab insyaa Allah kita mendapat apa yang kita inginkan.
 - Contoh dalam kelas ada yang IQ 140 tapi kaki keatas duduk di belakang dan mengupil. Pemateri pun tidak akan optimal mengajarinya.
-- [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, adab itu awal dari **kebahagiaan dan keberuntungan**.
+- [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, adab itu awal dari **kebahagiaan dan keberuntungan**.
 - Salah satu adab yaitu **sabar**, [[30 - Database/Kajian/Kita tidak bisa melarikan diri dari sabar\|Kita tidak bisa melarikan diri dari sabar]]
 
 
@@ -66,12 +66,12 @@ Artinya: *"Agar kamu tidak bersedih hati terhadap apa yang luput dari kamu, dan 
 </div></div>
 
 ## Alasan #2 kondisi pertama butuh lebih sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, agar anda tidak terlalu sibuk dan asyik dalam meraih dan mendapatkannya, serta berlebih-lebihan dalam menikmati/menggunakan.
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, agar anda tidak terlalu sibuk dan asyik dalam meraih dan mendapatkannya, serta berlebih-lebihan dalam menikmati/menggunakan.
 	1. Jika berlebihan maka hal tsb akan **berbalik** menjadi **memudharatkan**
 	2. **Contoh** dalam makan, dr. memberi larangan memakan A,B,C karena awalnya seorang terlalu berlebihan makan A,B,C.
 	3. **Contoh** dalam makan makanan favorit; mie ayam, hal tersulit adalah untuk menolak mangkok kedua :)
 ## Alasan #3 kondisi pertama butuh lebih sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, ketika kita mendapatkan apa yang kita sukai manusia suka lupa bahwa ada hak ***Allah ﷻ***. Maka kita perlu bersabar untuk menunaikan hak ***Allah ﷻ*** dan jangan sampai disia-siakan.
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan, ketika kita mendapatkan apa yang kita sukai manusia suka lupa bahwa ada hak ***Allah ﷻ***. Maka kita perlu bersabar untuk menunaikan hak ***Allah ﷻ*** dan jangan sampai disia-siakan.
 2. **Contoh** shalat dalam akad dan walimah
 3. Semakin besar nikmat, semakin besar hak ***Allah ﷻ*** yang harus ditunaikan.
 4. Menurut keterangan ulama ilmu bisa hilang dari hati manusia karena ketamakan dari nikmat yang diberi ***Allah ﷻ*** dan lupa atas hak ***Allah ﷻ*** .

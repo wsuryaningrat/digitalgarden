@@ -41,7 +41,7 @@ Artinya: *"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami
 
 
 ## Dua unsur untuk sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan untuk bisa **sabar** diperlukan **ilmu** dan **amal**
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan untuk bisa **sabar** diperlukan **ilmu** dan **amal**
 2. Diharuskan untuk melengkapi satu sama lain [[30 - Database/Kajian/Support system untuk sabar\|Support system untuk sabar]]
 
 
@@ -54,7 +54,7 @@ Artinya: *"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami
 
 
 ## Unsur ilmu untuk sabar
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan adapun sisi teori kita dapat mengetahui **manfaat**, **kenikmatan**, dan **kesempurnaan** dari amalan. 
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan adapun sisi teori kita dapat mengetahui **manfaat**, **kenikmatan**, dan **kesempurnaan** dari amalan. 
 	1. Misalnya terkait perjuangan kajian secara offline yang lebih besar. ***Nabi ﷺ*** bersabda, Barangsiapa yang menempuh jalan menuntut ilmu, maka ***Allah ﷻ*** mudahkan mudahkan jalannya menuju surga. Keutamaan lainnya malaikat memberikan **respect** dan ridho kepada kita
 	2. [[30 - Database/01 - Keutamaan Amalan/Keutamaan Bermajelis\|Keutamaan Bermajelis]]
 2. Ilmu **melindungi** kita **dari** **kesedihan**.
@@ -76,7 +76,7 @@ Artinya: *"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami
 
 
 ## Unsur setelah ilmu
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] setelah ilmu perlu ditambahkan
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] setelah ilmu perlu ditambahkan
 	1. *azima sodiqah*; tekad yang kuat
 	2. *imma 'aliya*; cita-cita yang tinggi
 	3.  *nahwah* / *futuwah*; memiliki kehormatan & jiwa ksatria
@@ -92,7 +92,7 @@ Artinya: *"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami
 
 ## Sabar itu pertempuran akal sehat dan agama dengan hawa nafsu
 1. [[30 - Database/Kajian/Kesabaran itu pergulatan dengan hawa nafsu\|Kesabaran itu pergulatan dengan hawa nafsu]] adalah pergulatan yang *intengible*
-2. **Solusi**: [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberikan solusi sangat *straigtfoward* yaitu perkuat apa yang ingin kita menangkan yaitu akal sehat dan agama lalu perlemah hawa nafsu
+2. **Solusi**: [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberikan solusi sangat *straigtfoward* yaitu perkuat apa yang ingin kita menangkan yaitu akal sehat dan agama lalu perlemah hawa nafsu
 3. Latih dari hal-hal kecil sehingga ketika musibah besar datang lebih terlatih.
 	
 ## Latih agar melemahkan hawa nafsu
@@ -106,8 +106,8 @@ Artinya: *"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami
 8. Terbukti kesabaran Nabi Yusuf As bisa sabar di level tinggi ketika digoda oleh istri Al-Aziz karena beliau punya *track record* sabar sebelumnya.
 
 ## Manusia selalu butuh kesabaran
-1. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] melanjutkan, **sabar** itu kebutuhan manusia dalam setiap kondisi. Sepanjang pena takdir berjalan manusia harus terus sabar. Ketika ada larangan dijauhi, ketika ada musibah dihadapi, dan ketika mendapat **nikmat** kita bersyukur.
-2. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] melanjutkan, yang dihadapi manusia di dunia adalah salah satu dari ada dua
+1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] melanjutkan, **sabar** itu kebutuhan manusia dalam setiap kondisi. Sepanjang pena takdir berjalan manusia harus terus sabar. Ketika ada larangan dijauhi, ketika ada musibah dihadapi, dan ketika mendapat **nikmat** kita bersyukur.
+2. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] melanjutkan, yang dihadapi manusia di dunia adalah salah satu dari ada dua
 	1. Dia mendapat apa yang diinginkan
 	2. Dia mendapat apa yang tidak diinginkan
 	3. Termasuk dalam perintah dan larangan. Misalnya perintah untuk menikah, buka di waktu magrib ([[30 - Database/Al-Quran/All Surah#QS. Al Baqarah 2 187\|All Surah#QS. Al Baqarah 2 187]]). Dua-duanya butuh **kesabaran**

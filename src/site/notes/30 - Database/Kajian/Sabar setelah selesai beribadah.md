@@ -58,7 +58,7 @@ Artinya: *"Jika kamu menampakkan sedekah-sedekahmu, maka itu baik. Dan jika kamu
 2. Contohnya;
 	1. Jangan sampai lupa hakikat berpuasa; bukan tentang apa makanan saat sahur / buka (risol, gorengan, kolek dst); melainkan menyambut perintah ***Allah ﷻ*** . Bahwasanya untuk yang berpuasa ada 2 kebaikan yaitu saat ia berbuka dan saat kembali kepada ***Allah ﷻ*** ia membawa pahala puasanya.
 	2. Saat shalat jangan sampai lupa kepada ***Allah ﷻ*** 
->[!summary] Keterangan [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]]
+>[!summary] Keterangan [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]]
 >Jangan sampai kita sibuk beribadah sampai kesibukan itu membuat kita lupa kepada ***Allah ﷻ*** 
 3. Implementasi;
 	1. Jangan meremehkan 
@@ -87,7 +87,7 @@ Artinya: *"Wahai orang-orang yang beriman! Janganlah kamu merusak sedekahmu deng
 	2. Mengungkit amal yang dikerjakan. Misalnya seorang memberi pakaian kepada temannya dan berkata "tumben agak rapih, itu baju yang gw kasih yah?". Misalnya orang tua yang sudah menafkahi anaknya atau istrinya, mengungkit-ngungkit nafkahnya maka sia-sialah amalannya.
 	3. Sombong dan ujub.
 	4. Merendahkan orang lain, ketika membandingkan apa yang kita berikan.
-	5. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan, Parameter bukan hanya melaksanakan ketaatan, tetapi menjaga hal-hal yang membatalkan amal tersebut.
+	5. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan, Parameter bukan hanya melaksanakan ketaatan, tetapi menjaga hal-hal yang membatalkan amal tersebut.
 	6. Jika kebaikan antara menyembunyikan kebaikan dan menampilkannya sama, maka merahasiakannya adalah lebih baik. kecuali syiar. 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-baqarah-2-271" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -123,7 +123,7 @@ Artinya: *"Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bek
 	5. Jangan terbawa atas orang yang memuji, yang penting ***Allah ﷻ***  yang melihat. Serahkan kepada ***Allah ﷻ*** semoga ***Allah ﷻ***  menerima amal kita.
 	6. Menjaga amal rahasia lebih diutamakan, kecuali untuk syiar.
 		1. Az Zubair bin Al ‘Awwam mengatakan, “Barangsiapa yang mampu menyembunyikan amalan sholihnya, maka lakukanlah.”
-		2. [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan, sesungguhnya ada seorang yang punya amal rahasia yang hanya diketahuinya dan ***Allah ﷻ*** , dan amal ini disimpan dalam diwan catatan amal shaleh rahasia. Sewaktu orang tersebut menceritakan kepada orang lain maka catatan itu akan pindah (turun level.)
+		2. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menambahkan, sesungguhnya ada seorang yang punya amal rahasia yang hanya diketahuinya dan ***Allah ﷻ*** , dan amal ini disimpan dalam diwan catatan amal shaleh rahasia. Sewaktu orang tersebut menceritakan kepada orang lain maka catatan itu akan pindah (turun level.)
 
 ## Rangkuman Sabar dalam Ketaatan
 1. Sabar sebelum beribadah

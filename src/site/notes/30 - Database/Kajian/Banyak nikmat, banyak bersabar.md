@@ -37,12 +37,12 @@ Artinya: *"Sesungguhnya Kami telah menawarkan amanat kepada langit, bumi dan gun
 </div></div>
 
 ## Kesabaran sestuatu yang melekat dengan manusia
-- [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan setiap manusia dalam hidup mengarah pada dua hal. 
+- [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan setiap manusia dalam hidup mengarah pada dua hal. 
 	- Sesuai harapan / nafsu / keinginan / prediksi
 	- Tidak sesuai dengan harapan 
 - Maka setiap orang butuh **kesabaran** untuk menghadapi dua hal di atas.
 - Hal ini membuat support moril kepada kita karena kita ngga sendirian :). Semua orang yang dapet nikmat atau ujian pun tetap harus sabar.
-- [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan **poin** **pertama**, adapun kesehatan, keselamatan, kedudukan sosial / hirarki, harta, dan berbagai kelezatan dunia (yang mubah) lebih butuh kesabaran
+- [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] menjelaskan **poin** **pertama**, adapun kesehatan, keselamatan, kedudukan sosial / hirarki, harta, dan berbagai kelezatan dunia (yang mubah) lebih butuh kesabaran
 	1. Agar kita tidak condong atau **ketergantungan** padanya
 	2. Agar kita tidak **tertipu** dan **terkecoh**, dan
 	3. Agar kita tidak **terseret** sehingga sombong, tenggelam dalam euforia yang mendatangkan keangkuhan dan apa yang ***Allah ﷻ*** tidak sukai

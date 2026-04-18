@@ -45,7 +45,7 @@ Artinya: *"Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang diser
 
 </div></div>
 
-4. Keterangan dari [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] sisi ilmu harus disertai dengan sisi amal yaitu [[30 - Database/Kajian/Dua unsur Support System Sabar#Unsur setelah ilmu\|Dua unsur Support System Sabar#Unsur setelah ilmu]]
+4. Keterangan dari [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] sisi ilmu harus disertai dengan sisi amal yaitu [[30 - Database/Kajian/Dua unsur Support System Sabar#Unsur setelah ilmu\|Dua unsur Support System Sabar#Unsur setelah ilmu]]
 	1. _azima sodiqah_; tekad yang kuat;
 	2. _imma 'aliya_; cita-cita yang tinggi
 	3. _nahwah_ / _futuwah_; memiliki kehormatan & jiwa ksatria; 
@@ -57,7 +57,7 @@ Artinya: *"Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang diser
 
 ## Kesabaran adalah pergulatan dua pihak
 1. Jika dua unsur itu digabungkan, maka kita bisa mendapatkan **kesabaran**, dan kesulitan-kesulitan akan ringan, rasa pahit berubah, rasa sakit jadi kelezatan. Bahkan mendapatkan kenikmatan dalam proses walau belum sampai hasil.
->[!info] [[50 - Public/Seeds/ Ibnul Qayyim/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] juga menjelaskan, 
+>[!info] [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] juga menjelaskan, 
 >Sesungguhnya **kesabaran** itu adalah **pergulatan** dan pertempuran antara dorongan akal sehat dan **agama** melawan dorongan **hawa** **nafsu**. Kedua pihak ingin saling mengalahkan
 
 2. Maka solusinya (untuk sabar) perkuat pihak yang ingin kita menangkan, yaitu akal sehat dan ilmu agama. Nafsu dilemahkan agar bisa digunakan dalam hal **halal.**

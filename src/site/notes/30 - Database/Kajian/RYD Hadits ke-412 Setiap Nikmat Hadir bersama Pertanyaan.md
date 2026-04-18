@@ -77,3 +77,6 @@ Artinya: *"Setiap yang bernyawa akan merasakan mati. Kami akan menguji kamu deng
 
 > [!Quotes]
 > Bukan berapa banyak ilmu yang dihafal tapi dalam apa dia **amalkan**
+
+
+- [[30 - Database/Kajian/Hadits ke 407\|Hadits ke 407]]
