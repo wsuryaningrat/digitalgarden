@@ -34,4 +34,3 @@
  - Jika seorang bisa menggunakan waktunya dengan baik tidak ada perkataan "Gw kosong nih hari ini, atau besok", melainkan dinamis mengatur skala prioritas
  - Waktunya orang berhasil dan tidak berhasil adalah 24 jam sehari, yang membedakan setelah taufik ***Allah ﷻ*** adalah bagaimana memanfaatkan 24 jam tersebut dan keyakinan atas waktu tersebut yang akan dipertanggungjawabkan (implementasi hadits di atas)
  - Gunakan waktu untuk keimanan dan cabang-cabangnya
- - 
