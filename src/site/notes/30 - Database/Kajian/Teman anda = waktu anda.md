@@ -79,4 +79,4 @@ Artinya: *"kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"*
 
 </div></div>
 
-- Jaga teman yang menjaga waktu dan produktif, walaupun ngobrolnya ga lama-lama. Justru waktunya yang sedikit yang menandakan dia menjaga waktu 
+	- Jaga teman yang menjaga waktu dan produktif, walaupun ngobrolnya ga lama-lama. Justru waktunya yang sedikit yang menandakan dia menjaga waktu 
