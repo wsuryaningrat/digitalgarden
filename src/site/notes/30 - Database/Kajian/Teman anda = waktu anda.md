@@ -28,7 +28,7 @@
 
 </div></div>
 
-- [[30 - Database/Kajian/Nikmat waktu yang sering dilalaikan\|Nikmat waktu yang sering dilalaikan]]
+- [[Nikmat waktu yang sering dilalaikan\|Nikmat waktu yang sering dilalaikan]]
 - [[30 - Database/Kajian/Yang membedakan waktu orang sukses dan tidak\|Yang membedakan waktu orang sukses dan tidak]]
 - [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] memberi keterangan, bala (bencana) memiliki teman-teman yang buruk; yaitu yang banyak melakukan hal yang tidak ***Allah ﷻ*** ridhai. 
 	- Ulama mengatakan memiliki *circle* seperti itu adalah bencana.
