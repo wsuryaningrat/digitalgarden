@@ -50,25 +50,9 @@ Artinya: *"Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anak
 - [[Clippings/Abdurrahman bin Nashir As-Sa'di\|Al-Imam As-Sa'di]] mejelaskan, ***Allah ﷻ*** memerintahkan kita untuk berdzikir karena itulah kebaikan di dunia dan mengingatkan kita untuk berdzikir kepada ***Allah ﷻ*** . Cinta kepada harta dan anak-anak adalah mayoritas kebanyakan jiwa yang akhirnya mengedepankan cinta itu daripada cinta kepada ***Allah ﷻ*** .
 - Sehingga masalahnya adalah bukan punya banyak harta atau anak yang lucu-lucu, melainkan ketika hal itu bisa membuat kita lalai mengingat ***Allah ﷻ*** dan menunaikan hak-hak ***Allah ﷻ*** .
 
+![[Empat Pagar Sabar di Tengah Kenikmatan#Empat pagar sabar di tengah kenikmatan\|Empat Pagar Sabar di Tengah Kenikmatan#Empat pagar sabar di tengah kenikmatan]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/empat-pagar-sabar-di-tengah-kenikmatan/#empat-pagar-sabar-di-tengah-kenikmatan" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/kajian/empat-pagar-sabar-di-tengah-kenikmatan/#keterangan-para-sahabat" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+![[Empat Pagar Sabar di Tengah Kenikmatan#Keterangan para sahabat\|Empat Pagar Sabar di Tengah Kenikmatan#Keterangan para sahabat]]
 ## Poin ke-2 
 1. [[50 - Public/Seeds/Ibnul Qayyim al-Jauziyyah\|Ibnul Qayyim]] meneruskan. Adapun yang kedua adalah hal yang menyelisihi hawa nafsu kita; yaitu
 	1. Berkaitan dengan pilihan seorang hamba melakukan / tidak melakukan kemaksiatan / ketaatan
