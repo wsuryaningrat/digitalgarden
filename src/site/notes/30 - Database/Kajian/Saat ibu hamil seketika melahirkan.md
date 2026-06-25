@@ -17,7 +17,7 @@
 # Catatan Kajian
 -  [[30 - Database/Membantu mukmin = Allah mudahkan di hari Kiamat\|Membantu mukmin = Allah mudahkan di hari Kiamat]]
 - Semoga ***Allah ﷻ*** melindungi seluruh umat muslim khususnya yang sedang terkena musibah di Sumatera dan sekitarnya.
-- Sebelumnya telah dibahas firman ***Allah ﷻ*** [[30 - Database/Kajian/Saat ibu yang menyusui lalai\|Saat ibu yang menyusui lalai]] 
+- Sebelumnya telah dibahas firman ***Allah ﷻ*** [[Saat ibu yang menyusui lalai\|Saat ibu yang menyusui lalai]] 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/30-database/al-quran/all-surah/#qs-al-hajj-22-1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 

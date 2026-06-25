@@ -18,7 +18,7 @@
 -  Berusaha jadi bagian saudara kita yang sedang butuh bantuan memulihkan kondisinya paska bencana di Sumatera
 
 ## Kondisi saat hari kebangkitan atau kiamat pertama
-- [[30 - Database/Kajian/Saat ibu yang menyusui lalai\|Saat ibu yang menyusui lalai]]
+- [[Saat ibu yang menyusui lalai\|Saat ibu yang menyusui lalai]]
 - [[30 - Database/Kajian/Saat ibu hamil seketika melahirkan\|Saat ibu hamil seketika melahirkan]]
 -
 
