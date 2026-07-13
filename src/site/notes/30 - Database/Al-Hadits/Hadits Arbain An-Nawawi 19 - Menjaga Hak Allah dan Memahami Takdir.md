@@ -16,4 +16,4 @@ Dari [Anas bin Malik](https://id.wikipedia.org/wiki/Anas_bin_Malik), ia berkata,
 2. Kenalilah ***Allah ﷻ***  di saat senang, niscaya ***Allah ﷻ***  mengenalmu di saat susah. 
 3. Ketahuilah, bahwa apa saja yang luput darimu, maka tidak akan pernah menimpamu. 
 4. Dan apa yang menimpamu, maka tidak akan pernah luput darimu. 
-5. Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan.
+5. Ketahuilah bahwa kemenangan bersama **kesabaran**, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan.
