@@ -17,8 +17,8 @@
 # Catatan Kajian
 
 ## Hadits Qudsi:
--  Hadits qudsi, dari Abu Dzar radhiallahuanhu, beliau berkakta, ***Nabi ﷺ*** bersabda
-![Screenshot 2026-07-27 at 05.33.47.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202026-07-27%20at%2005.33.47.png)
+-  Dari Abu Dzar radhiallahuanhu, beliau berkakta, ***Nabi ﷺ*** bersabda![Screenshot 2026-07-29 at 05.48.42.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202026-07-29%20at%2005.48.42.png)
+- ![Screenshot 2026-07-27 at 05.33.47.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202026-07-27%20at%2005.33.47.png)
 
 ## Kemudahan Mendapat Surga
 - ***Allah ﷻ*** Maha Luas dan Maha Bijaksana. Sangatlah keliru dan suudzon jika manusia berpikir bahwa ***Allah ﷻ*** tidak adil dalam menilai amal hamba-Nya.
