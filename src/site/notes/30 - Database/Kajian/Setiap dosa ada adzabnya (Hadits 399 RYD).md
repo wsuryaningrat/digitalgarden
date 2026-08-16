@@ -16,7 +16,7 @@
 
 # Catatan Kajian
 -  Hadits 399 yang dibawakan [[50 - Public/Seeds/Imam An-Nawawi\|Imam An-Nawawi]] dalam Riyadush Shalihin
-	 ![Screenshot 2026-03-05 at 05.48.08.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202026-03-05%20at%2005.48.08.png)
+	 ![[Screenshot 2026-03-05 at 05.48.08.png]]
 - Dari *Samurah bin Jundub Radhiallahuanhu,* ***Nabi ﷺ*** bersabda
 	- "Di antara mereka ada yang 
 		- dibakar api sampai kedua mata kakinya,
