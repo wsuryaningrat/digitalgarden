@@ -77,7 +77,7 @@ Allah Subhanahu Wa Ta'ala berfirman:
 
 
 ## Hari-hari Penuntut Ilmu
-1. Khairun bin Ahmad memberi keterangan ada empat bentuk hari
+1. Khalil bin Ahmad memberi keterangan ada empat bentuk hari
 	1. **Hari** **pertama**: Bertemu orang yang lebih berilmu daripada ku. Hari itu aku belajar, *ghonimah*.
 	2. **Hari** **kedua**: Bertemu orang yang lebih rendah ilmu nya daripada ku. Saat itu aku support, aku arahkan dan beri nasihat (lihat konteks dulu). Spirit *sharing* bukan merendahkan.
 	3. **Hari** **ketiga**: Bertemu orang yang satu level. Aku belajar barung, *murojaah*, mujarakoh, berdiskusi.

@@ -35,7 +35,7 @@ Artinya: *"Dan mengapa kamu tidak mau memakan dari apa (daging hewan) yang (keti
 4. Secara **istilah** dalam syariat, ada 2 pengertian
 	1. Luas; semua transaksi yang dilarang oleh syariat. Seperti perilaku Najsy (dari salafi Ibnu Abi Aufa) atau jual beli khamr (Hadits dari Aisyah).
 	2. Spesifik; tambahan khusus yang dimiliki salah satu dari dua orang yang melakukan transaksi tanpa imbalan sebaliknya.
-![[Screenshot 2025-09-26 at 06.09.14.png]]	3. 
+![Screenshot 2025-09-26 at 06.09.14.png](/img/user/40%20-%20Obsidian/Attachment/Screenshot%202025-09-26%20at%2006.09.14.png)	3. 
 
 ## Najsy
 1. Ibnu Abi Aufa memberi keterangan perilaku Najsy adalah mereka perilaku riba dan tidak amanah

@@ -10,7 +10,7 @@
  
 ## Catatan Kajian
 1. Menutup bab 46, keutamaan mencintai karena ***Allah ﷻ*** 
-2. ![[Hadits obrolan Rasulullah-memberitahukan mencintai karena Allah.png]]
+2. ![Hadits obrolan Rasulullah-memberitahukan mencintai karena Allah.png](/img/user/40%20-%20Obsidian/Assets/Hadits%20obrolan%20Rasulullah-memberitahukan%20mencintai%20karena%20Allah.png)
 
 ## Kesimpulan Bab-46 Mencintai Karena ***Allah ﷻ*** 
 1. ***Rasulullah ﷺ***  mendidik umat pentingnya keikhlasan dalam amal perbuatan, tidak hanya beribadah haji/umroh, termasuk interaksi dalam pergaulan. Harus berlandaskan cinta karena ***Allah ﷻ*** .
